@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿柒的岛屿</title>
+  <subtitle>每个人都是一座孤岛。那里有绿植、有花朵、有飞鸟。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://aqiqi.me/"/>
+  <updated>2016-02-26T10:21:36.324Z</updated>
+  <id>http://aqiqi.me/</id>
+  
+  <author>
+    <name>Qi Shuhan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>寒假手绘册</title>
+    <link href="http://aqiqi.me/2016/01/23/15.%E5%AF%92%E5%81%87%E6%89%8B%E7%BB%98%E5%86%8C/"/>
+    <id>http://aqiqi.me/2016/01/23/15.寒假手绘册/</id>
+    <published>2016-01-23T13:11:30.000Z</published>
+    <updated>2016-02-26T10:21:36.324Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/shouhui11.jpg&quot; alt=&quot;老师哒作品&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;写在后面(●’◡’●)&quot;&gt;写在后面(●’◡’●)&lt;/h2&gt;&lt;p&gt;之所以学手绘原因有二，一是这学期突然冒出考研的想法（不过已经被我扼杀在了摇篮里）；二是画画本身就是我所喜爱的，任何时候开始自己的兴趣爱好都不晚。所以我就在南京阴冷凛冽的冬天多呆了二十几天，差一点大年三十晚上还在火车上（不过后来很幸运没有）。&lt;/p&gt;
+&lt;p&gt;如果你见过我第一天去手绘班老师测验我们水平时画的图，就知道二十天可以有多大的进步了。不过相比于园林和建筑，产品是更容易画的。表达好透视、搞清楚结构、练习好线条基本上就可以。对于我这个还挺喜欢立体几何的理科生来说，搞清楚产品的立体结构不算难，脑袋里大体可以想象出来。而透视就不一样了，以前画立方体都是等长平行，没有考虑过近大远小和灭点的问题，所以一开始总出错。至于线条，唯一的方法就是一遍又一遍练习直到找到感觉。&lt;/p&gt;
+&lt;p&gt;以前有学画画的同学告诉我画画时一件特别“杀时间”的事情，这一次我感受颇深。我们基本上是早上九点到晚上七八点除了吃饭全天呆在画室，但是丝毫不觉得时间过得慢。一晃就到了中午，又一晃就晚上了。听起来好像挺辛苦的，可是真的沉浸在白纸和黑线中的时候，思考、专注以及完成时的成就感带来的快乐是无穷尽的。&lt;/p&gt;
+&lt;p&gt;后期画图的时候我总是特别兴奋，因为老师会在图上加上人物和故事版。比起画产品，我更喜欢画故事版。如果没有这一个又一个神态动作迥异的人物和生动丰富的情景，单看产品本身似乎就缺了些灵气。每次点评作业的时候，老师都会说我的人物画的还不错(●’◡’●)，我很开心然后就画得更认真啦（鼓励真的是进步的源泉哇~~）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/shouhui12.jpg&quot; alt=&quot;附阿柒画画图一张&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/shouhui11.jpg&quot; alt=&quot;老师哒作品&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="手绘" scheme="http://aqiqi.me/tags/%E6%89%8B%E7%BB%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>心中有个太阳</title>
+    <link href="http://aqiqi.me/2016/01/13/14.%E5%BF%83%E4%B8%AD%E6%9C%89%E4%B8%AA%E5%A4%AA%E9%98%B3/"/>
+    <id>http://aqiqi.me/2016/01/13/14.心中有个太阳/</id>
+    <published>2016-01-13T15:01:30.000Z</published>
+    <updated>2016-02-25T04:40:33.803Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E5%A4%AA%E9%98%B3%20.jpg&quot; alt=&quot;太阳女孩·from花瓣&quot;&gt;&lt;br&gt;原本是想检查一下复习有什么疏漏，打开Notepad++按照理解和记忆梳理了一下计算机网络庞杂的知识点，写完发现这不就是一篇博文吗？恰好给我不学无术的博客增加一点点学术气氛，hhh……&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;当然，《计算机网络》是我很喜欢的一门课（=_=不是因为课程本身），因为颖哥讲课十分有水平，逻辑清晰，表达清楚，善用打比方、举例子、讲故事的方式把抽象的计算机理论讲得生动有趣。每次坐在前排看他循循善诱、娓娓道来的时候，我都觉得眼前的这个个子不高头发微白的中年男人背后闪烁着光芒。&lt;/p&gt;
+&lt;p&gt;他应该是我大学期间见到的对学生要求最严格的老师之二了。我很感谢他。如果批评和表扬只能选一个听的话，我一定会选批评。大二上学期他教我们C++，要求严格，语言犀利。也就是从那时起，我觉得我的大学不应该浑浑噩噩地度过，不应该丢掉曾经的努力。这种努力不是为了分数和GPA，而是为了学习的精神、毅力和无愧的心。所以每次上颖哥的课我都有一种高中物理课上像打了鸡血一样的感觉。&lt;/p&gt;
+&lt;p&gt;说到高中物理课，我很想念被我们称为“宋帅”的物理老师。这个昵称的缘由有两个，一是本来就长得帅，二是讲课十分帅。班上的同学都很喜欢他尊敬他，还记得在他生病康复回来的那一天我们在黑板上画了一个大大的超人，并写了“王者归来”四个大字迎接他。因为宋帅是个慢性子，说话语速也慢，所以不少同学在他的课上会犯困。而我恰恰相反，完美接收他的频率，每次上他的课都像打了鸡血一样兴奋。正因如此，高中物理成绩一直还不错。也因如此，在为文理科选择摇摆不定的时候（因为不偏科，最喜欢的课是物理和地理，有老师建议我选文科），我选择了理科。现在想来还挺神奇的，因为当时数学不佳（高中三年我一直惧怕数学），也不喜欢化学，如果没有物理给我信心的话，我肯定不会选择理科，那后来的事也就彻底改变了。&lt;/p&gt;
+&lt;p&gt;生命的轨迹是不断受人和事的影响而改变的，我人生第一次重要的改变是在初中遇到老马后。老马是我们的语文老师，此老非年龄老，而是尊称。老马寓教于乐，那些课前三分钟自助套餐、作业大礼包真的让我第一次领悟到语文的乐趣、写作的乐趣。要知道，我是一个小学时候极度害怕写日记、概括不清中心思想、经常分错自然段的语文傻。“老马”就像一匹经验丰富老马，领我在文学广袤的草原驰骋。如果不是她的鼓励，我很难想象现在的自己会是什么样子，很难想象一个从来不敢举手发言的女孩可以有那么大的改变，很难想象自己也可以作文获奖，也可以自信地演讲。&lt;/p&gt;
+&lt;p&gt;我想我是幸运的，学生时代每段时期都会遇到帮助我成长的人生导师，还有许多给我莫大帮助、对我无比关心的好老师。真的很是感激。记得高中班主任老田写给我们的新年寄语：“只要心中有个太阳，大年三十晚上也会亮亮堂堂。”是啊，他们都曾是照亮我心的那轮太阳。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E5%A4%AA%E9%98%B3%20.jpg&quot; alt=&quot;太阳女孩·from花瓣&quot;&gt;&lt;br&gt;原本是想检查一下复习有什么疏漏，打开Notepad++按照理解和记忆梳理了一下计算机网络庞杂的知识点，写完发现这不就是一篇博文吗？恰好给我不学无术的博客增加一点点学术气氛，hhh……&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
+    
+      <category term="老师" scheme="http://aqiqi.me/tags/%E8%80%81%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《计算机网络》笔记——数据链路层</title>
+    <link href="http://aqiqi.me/2016/01/03/13.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%EF%BC%89/"/>
+    <id>http://aqiqi.me/2016/01/03/13.计算机网络复习笔记（数据链路层）/</id>
+    <published>2016-01-03T13:01:30.000Z</published>
+    <updated>2016-02-25T04:42:44.434Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;功能和三种服务&quot;&gt;功能和三种服务&lt;/h2&gt;&lt;h3 id=&quot;【作用】&quot;&gt;【作用】&lt;/h3&gt;&lt;p&gt;为网络层提供服务。将数据从源机器的网络层传输到目标机器的网络层。&lt;/p&gt;
+&lt;h3 id=&quot;【无确认无连接（以太网）】&quot;&gt;【无确认无连接（以太网）】&lt;/h3&gt;&lt;p&gt;数据链路层不试图检测帧丢失，也不试图恢复丢失的帧。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;适用于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;错误率很低（此时差错恢复可以留给上层完成）&lt;/li&gt;
+&lt;li&gt;实时通信，语音传输（数据迟到比数据受损更糟糕）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;【有确认无连接（802-11WiFi）】&quot;&gt;【有确认无连接（802.11WiFi）】&lt;/h3&gt;&lt;p&gt;每一帧单独确认，发送方可知道一个帧是否已经正确到达目的地。&lt;br&gt;适用于不可靠信道。&lt;/p&gt;
+&lt;h3 id=&quot;【有确认有链接】&quot;&gt;【有确认有链接】&lt;/h3&gt;&lt;p&gt;建立连接，每帧编号。适用于长距离且不可靠信道。&lt;/p&gt;
+&lt;h2 id=&quot;组帧&quot;&gt;组帧&lt;/h2&gt;&lt;p&gt;将无结构比特流变成一定长度的结构数据流&lt;/p&gt;
+&lt;h3 id=&quot;【字符计数法】&quot;&gt;【字符计数法】&lt;/h3&gt;&lt;p&gt;帧头用一个字段表明帧内字符数。&lt;br&gt;缺点：一旦计数出错，再也无法同步。&lt;/p&gt;
+&lt;h3 id=&quot;【带字符填充的首位定界法】&quot;&gt;【带字符填充的首位定界法】&lt;/h3&gt;&lt;p&gt;类似于转义。&lt;br&gt;只能用于较为少用的面向字符型协议。应用：PPP协议&lt;/p&gt;
+&lt;h3 id=&quot;【带位填充的首位标志法】&quot;&gt;【带位填充的首位标志法】&lt;/h3&gt;&lt;p&gt;每帧使用一个特殊的为模式（011111110）为开始和结束的标志。当发送方在帧数据中遇到5个连续的1，自动在其后面插一个0；接收方自动删除这个0.&lt;br&gt;适用于流行的面向比特型协议，如HDLC协议。&lt;/p&gt;
+&lt;h3 id=&quot;【物理编码违例法】&quot;&gt;【物理编码违例法】&lt;/h3&gt;&lt;p&gt;用于物理层编码具有冗余码字时。&lt;/p&gt;
+&lt;h2 id=&quot;差错控制&quot;&gt;差错控制&lt;/h2&gt;&lt;h3 id=&quot;【纠错检错两个结论】&quot;&gt;【纠错检错两个结论】&lt;/h3&gt;&lt;p&gt;海明距离：两个码子中不同的位的个数。一种编码的校验和纠错能力取决于它的海明距离。&lt;br&gt;若要检测出d比特错误，则编码的海明距离至少为d+1&lt;br&gt;若要纠正d比特错误，则编码集的海明距离至少为2d+1&lt;/p&gt;
+&lt;h3 id=&quot;【纠错码（前向纠错）】&quot;&gt;【纠错码（前向纠错）】&lt;/h3&gt;&lt;p&gt;应用：有噪声信道（无线链路）&lt;/p&gt;
+&lt;h4 id=&quot;①海明码&quot;&gt;①海明码&lt;/h4&gt;&lt;p&gt;在特定位置2的k次幂（k&amp;gt;=0）加入某些特定数据信息相关的奇偶校验位。可纠正1比特错误。&lt;/p&gt;
+&lt;h3 id=&quot;【检错码（后向检错）】&quot;&gt;【检错码（后向检错）】&lt;/h3&gt;&lt;p&gt;应用：高度可靠信道（光纤）&lt;/p&gt;
+&lt;h4 id=&quot;①奇偶校验&quot;&gt;①奇偶校验&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;奇校验：使码字内1的数目为奇数&lt;/li&gt;
+&lt;li&gt;偶校验：使码字内1的数目为偶数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;②CRC循环冗余校验&quot;&gt;②CRC循环冗余校验&lt;/h4&gt;&lt;h4 id=&quot;③海明码检测突发错误&quot;&gt;③海明码检测突发错误&lt;/h4&gt;&lt;p&gt;对数据位组成一个L位宽，K位高的长方形举证发送，然后对每一列单独计算奇偶位，并附在最后一行作为冗余位。可检测长度为L的突发错误。&lt;/p&gt;
+&lt;h2 id=&quot;流量控制&quot;&gt;流量控制&lt;/h2&gt;&lt;h3 id=&quot;【三个单工通信协议】&quot;&gt;【三个单工通信协议】&lt;/h3&gt;&lt;h4 id=&quot;①无约束单工通信协议&quot;&gt;①无约束单工通信协议&lt;/h4&gt;&lt;p&gt;前提:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单工传输&lt;/li&gt;
+&lt;li&gt;发送方无休止（发送方信息无限多）&lt;/li&gt;
+&lt;li&gt;接收方无休止（缓冲区无限大）&lt;/li&gt;
+&lt;li&gt;信道不损坏也不会丢失帧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;过程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;发送方：取数据，成帧，发送&lt;/li&gt;
+&lt;li&gt;接收方：等待，接受，传输上一层&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;评价：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;发送和接收方没有任何协调。空闲时间盲等待。&lt;/li&gt;
+&lt;li&gt;很不可靠。传输过程中帧有没有传到对方，帧传送是否正确等问题都不管。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;②无错信道上单工停等协议&quot;&gt;②无错信道上单工停等协议&lt;/h4&gt;&lt;p&gt;前提：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;假定信道为无差错信道&lt;/li&gt;
+&lt;li&gt;接收方不能无限制接收&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解决：接收方收到一个帧后，给发送方回送一个响应&lt;/p&gt;
+&lt;p&gt;过程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;发送方：取数据，成帧，发送，等待响应&lt;/li&gt;
+&lt;li&gt;接收方: 等待，接受，传输上一层，回送响应&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;评价：只适用于近距离网络，因为传播时延太大&lt;/p&gt;
+&lt;h4 id=&quot;③有错信道上单工停等协议&quot;&gt;③有错信道上单工停等协议&lt;/h4&gt;&lt;p&gt;前提：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;信道不理想，可能出错，也可能丢失&lt;/li&gt;
+&lt;li&gt;双方速度不一致，需对发送方流量控制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解决办法：出错重传&lt;/p&gt;
+&lt;p&gt;过程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;增加一个计时器，发送方在发送一个帧后启动计时器，在一定时间内如果没有收到帧确认，就重新发送此帧&lt;/li&gt;
+&lt;li&gt;给帧编号：有时接收方返回的帧确认信息没办法及时返回给发送方，发送方于是重新发送了该帧，接收方就会收到重复的帧，为了解决这一问题，给每一个帧编号，这样接收方就可以区分出重复的帧了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;【三个双工通信协议】&quot;&gt;【三个双工通信协议】&lt;/h3&gt;&lt;h4 id=&quot;①1位滑动窗口协议&quot;&gt;①1位滑动窗口协议&lt;/h4&gt;&lt;h4 id=&quot;②回退N协议&quot;&gt;②回退N协议&lt;/h4&gt;&lt;h4 id=&quot;③选择重传协议&quot;&gt;③选择重传协议&lt;/h4&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;功能和三种服务&quot;&gt;功能和三种服务&lt;/h2&gt;&lt;h3 id=&quot;【作用】&quot;&gt;【作用】&lt;/h3&gt;&lt;p&gt;为网络层提供服务。将数据从源机器的网络层传输到目标机器的网络层。&lt;/p&gt;
+&lt;h3 id=&quot;【无确认无连接（以太网）】&quot;&gt;【无确认无连接（以太网）】&lt;/h3&gt;&lt;p&gt;数据链路层不试图检测帧丢失，也不试图恢复丢失的帧。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习" scheme="http://aqiqi.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="计算机网络" scheme="http://aqiqi.me/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《计算机网络》笔记——物理层</title>
+    <link href="http://aqiqi.me/2016/01/02/12.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E7%89%A9%E7%90%86%E5%B1%82%EF%BC%89/"/>
+    <id>http://aqiqi.me/2016/01/02/12.计算机网络复习笔记（物理层）/</id>
+    <published>2016-01-02T13:01:30.000Z</published>
+    <updated>2016-02-25T04:42:35.511Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;编码&quot;&gt;编码&lt;/h2&gt;&lt;h3 id=&quot;【基本概念】&quot;&gt;【基本概念】&lt;/h3&gt;&lt;p&gt;数据：运送消息的实体。&lt;br&gt;信号：数据的电气或电磁的表现。&lt;br&gt;模拟的：代表消息的参数取值是连续的。&lt;br&gt;数字的：代表消息的参数取值是离散的。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;【数字数据的数字信号编码】&quot;&gt;【数字数据的数字信号编码】&lt;/h3&gt;&lt;h4 id=&quot;不归零码&quot;&gt;不归零码&lt;/h4&gt;&lt;p&gt;用低电平和高电平分别表示二进制信息“0”和“1”。&lt;br&gt;缺点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;难分辨一位的结束与另一位的开始&lt;/li&gt;
+&lt;li&gt;发送方和接收方必须时钟同步&lt;/li&gt;
+&lt;li&gt;出现连续“0”或“1”，信号直流分量将累加，即易错误传播&lt;!--more--&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;曼彻斯特编码&quot;&gt;曼彻斯特编码&lt;/h4&gt;&lt;p&gt;用电压的跳变表示“0”和“1”，在每个码元中间发生跳变。由高→低代表“1”，由低→高代表“0”。&lt;br&gt;自同步码，因为在每个码元中间发生跳变，接收端可将此变化提取出来作为同步信号。&lt;br&gt;缺点：需双倍传输带宽，即信号速率是数据速率的2倍&lt;/p&gt;
+&lt;h4 id=&quot;差分曼彻斯特编码&quot;&gt;差分曼彻斯特编码&lt;/h4&gt;&lt;p&gt;看码元开始处有无跳变（看实线or虚线），有跳变代表“0”，无跳变代表“1”。&lt;br&gt;相比于曼彻斯特编码：变化要少，因此更适合与传输高速的信息，被广泛用于宽带高速网中&lt;br&gt;优点：时钟数据分离，便于提取&lt;/p&gt;
+&lt;h4 id=&quot;4B/5B编码&quot;&gt;4B/5B编码&lt;/h4&gt;&lt;p&gt;将要发送的数据流每4bit作为一个组，用编码规则将其转换成相应的5bit码。&lt;/p&gt;
+&lt;h3 id=&quot;【数字数据的模拟信号编码】&quot;&gt;【数字数据的模拟信号编码】&lt;/h3&gt;&lt;p&gt;幅移键控（ASK）、频移键控（FSK）、相移键控（PSK）。&lt;br&gt;用数字信号对载波的不同参量进行调制。&lt;/p&gt;
+&lt;h3 id=&quot;【模拟数据的数字信号编码】&quot;&gt;【模拟数据的数字信号编码】&lt;/h3&gt;&lt;h4 id=&quot;PCM编码：&quot;&gt;PCM编码：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;采样：时间上连续的模拟信号转化为时间上离散的信号。每隔固定时间抽取模拟数据的瞬时值，且F（采）&amp;gt;=2F（max）.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奈奎斯特定理：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果连续变化的模拟信号最高频率为F，若以2F的采样频率对其采样，则采样得到的离散信号序列就能完整地恢复出原始信号。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;量化：幅度上连续的模拟信号转换成幅度上离散的脉冲信号。量化等级为2的整数n次幂。&lt;/li&gt;
+&lt;li&gt;编码：时间离散且幅度离散的量化信号用一个二进制码组表示。二进制位数即为n&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;【模拟数据的模拟信号】&quot;&gt;【模拟数据的模拟信号】&lt;/h3&gt;&lt;p&gt;调幅（AM）、调频（FM）、调相（PM）。&lt;/p&gt;
+&lt;h2 id=&quot;复用&quot;&gt;复用&lt;/h2&gt;&lt;h3 id=&quot;【频分复用（FDM）】&quot;&gt;【频分复用（FDM）】&lt;/h3&gt;&lt;p&gt;整个传输频带被分成若干个频率通道，用户占用一个频率通道，频率通道之间留有防护带。所有用户在同样的时间占用不同的带宽资源。&lt;/p&gt;
+&lt;h3 id=&quot;【时分复用（TDM）】&quot;&gt;【时分复用（TDM）】&lt;/h3&gt;&lt;p&gt;把时间分割成小的时间片，每个时间片分为若干个时隙，每个用户占用一个时隙。&lt;br&gt;缺点：某用户无数据发送，其他用户也不能占用该通道。&lt;/p&gt;
+&lt;h3 id=&quot;【统计时分复用（STDM）】&quot;&gt;【统计时分复用（STDM）】&lt;/h3&gt;&lt;p&gt;用户不固定占用某个时隙，有空槽就将数据放入，需要在每一个时隙前寻址。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比较TDM和STDM&lt;br&gt;用户多，用TDM，利用率高；用户少，用STDM,利用率高。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;【码分多址（CDMA）】&quot;&gt;【码分多址（CDMA）】&lt;/h3&gt;&lt;p&gt;必备条件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;与扩频技术相结合，把一个窄带信号扩展到一个很宽的频带上，更能容忍干扰，允许来自不同用户的信号共享带宽&lt;/li&gt;
+&lt;li&gt;足够多良好自正交、互相关的地址码&lt;/li&gt;
+&lt;li&gt;信宿和信源相位完全同步&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;原理：各发送端用各不相同、相互正交的地址码调制其要发送的信号。接收端利用码型的正交性，通过地址识别从混合信号中选出相应的信号。&lt;br&gt;1代表传送的“1”，-1代表传送的“0”，0代表没有传输。&lt;/p&gt;
+&lt;h2 id=&quot;交换&quot;&gt;交换&lt;/h2&gt;&lt;h3 id=&quot;【电路交换】&quot;&gt;【电路交换】&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;采用面向连接的方式，三个阶段：建立连接、通信、释放链接。&lt;/li&gt;
+&lt;li&gt;应用：公众电话网、移动网（GSM和CDMA）&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;优点：1.通信线路为通信双方专用，数据直达，传输时延非常少。2.通信双方之间的物理通路一旦建立，双方可随时通信，实时性强。3.双方按照顺序传送数据，不存在失序问题。4.既适用于数字信号，也适用于模拟信号。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;缺点：1.对计算机通信（突发性、间歇式）而言，建立电路太耗时间。2.连接建立后，物理通道被双方独占，即使通信线路空闲， 也不能让其他用户使用，利用率低。3.数据直达，不用类型、规格的终端难以相互通信，也难进行差错控制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;【报文交换】&quot;&gt;【报文交换】&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;通信双方借助一个或多个中间节点存储转发。&lt;/li&gt;
+&lt;li&gt;优点：1.提供有效的通信管理。2.减轻网络通信的拥挤情况。3.（和电路交换相比）更加有效的利用信道资源，不同的报文可以分享同一公共线路。4.在不同时区里提供了异步通信功能。&lt;/li&gt;
+&lt;li&gt;缺点：1.不能满足实时应用的需要。2.不适合交互式通信。3.投资大。4.如果一个线路故障，整个报文可能丢失。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;【分组交换】&quot;&gt;【分组交换】&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;发送端把较长的报文划分为较短的、固定长度的数据段，每个数据段前面添加上首部（含地址等信息）构成分组。以分组为数据传输单元，依次把各分组传到接收端。&lt;/li&gt;
+&lt;li&gt;优点：1.将数据分到不同的路由，对带宽资源有效利用。2.一条特定线路故障不会影响其他分组的传输。&lt;/li&gt;
+&lt;li&gt;缺点：1.分组在各个节点存储转发时需要排队，造成一定时延。2.必须携带首部，造成一定开销浪费。3.包丢失导致报文丢失概率增大。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;基本定理&quot;&gt;基本定理&lt;/h2&gt;&lt;h3 id=&quot;【尼奎斯特定理】&quot;&gt;【尼奎斯特定理】&lt;/h3&gt;&lt;p&gt;任何信道，码元传输速率有上限，否则就会出现码间串扰。&lt;/p&gt;
+&lt;p&gt;在假定理想条件下，为避免码间串扰，码元的传输速率的上限值=2Blog2V（比特/秒）B——带宽，V——离散等级&lt;/p&gt;
+&lt;h3 id=&quot;【香农定理】&quot;&gt;【香农定理】&lt;/h3&gt;&lt;p&gt;带宽受限且有高斯白噪声干扰的信道的极限，无差错的信息传输速率C=Wlog2（1+S/N），W——带宽，S/N信噪比。&lt;/p&gt;
+&lt;p&gt;理解:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只要传输速率低于C，就可以找到某种方法实现无差错传输&lt;/li&gt;
+&lt;li&gt;实际信道能达到的信息传输速率要比香农的极限速率少很多，因为除了这些因素，传输速率还受限于信道其他因素（各种脉冲干扰、传输过程的失真等）。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;编码&quot;&gt;编码&lt;/h2&gt;&lt;h3 id=&quot;【基本概念】&quot;&gt;【基本概念】&lt;/h3&gt;&lt;p&gt;数据：运送消息的实体。&lt;br&gt;信号：数据的电气或电磁的表现。&lt;br&gt;模拟的：代表消息的参数取值是连续的。&lt;br&gt;数字的：代表消息的参数取值是离散的。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习" scheme="http://aqiqi.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="计算机网络" scheme="http://aqiqi.me/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My 2015</title>
+    <link href="http://aqiqi.me/2015/12/31/11.Favourite%202015/"/>
+    <id>http://aqiqi.me/2015/12/31/11.Favourite 2015/</id>
+    <published>2015-12-31T12:01:30.000Z</published>
+    <updated>2016-02-25T04:42:24.148Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E6%9C%88%E4%BA%AE%E5%84%BF.jpg&quot; alt=&quot;月亮·from花瓣&quot;&gt;&lt;/p&gt;
+&lt;p&gt;采集这张图，是因为我想起了前几日南京极亮极圆的月亮。&lt;/p&gt;
+&lt;h2 id=&quot;Favourite_2015&quot;&gt;Favourite 2015&lt;/h2&gt;&lt;p&gt;受&lt;a href=&quot;http://lightory.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;刘白光&lt;/a&gt;学长的启发，我也把我所热爱的2015，写在这里。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;作家：青山七惠&quot;&gt;作家：青山七惠&lt;/h3&gt;&lt;p&gt;文字清淡，清新自然，于琐碎处刻画人与人之间微妙的关系。读的是小说，找到的是生活中的自己。没有庞大的布局，没有冗杂的元素，浅浅的文字低吟着哲思，精彩而不急躁。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://baike.baidu.com/link?url=4E4Etr1nKmhk4qsjldoQL0rVUSCxhdo8SJohvcXPw2QRP5xnTzAxGD0XiUqcb1NW2-cRVETuBz0iXUDiZfcqVa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;青山七惠&lt;/a&gt;在中日青年作家会议上的演讲：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;小说里的语言是被加工而成的，像食品加工厂的机器，本来鲜活的语言被切碎、加防腐剂、包装。经过深思熟虑的语言，包含真心、口感也不错，加工得也很好，但是没有自然那样鲜活和美丽了。我想要传达的并不是加工好的语言而是简单的语言，就是一句“真好”、“真棒”。不是容器里面的语言，而是当场的感受。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;豆瓣上关于小说《&lt;a href=&quot;http://book.douban.com/subject/6391166/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;碎片&lt;/a&gt;》有这么一段书评：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人与人之间永远是无法做到坦诚相待的，父女如是，恋人如是，夫妇如是，坦然接受了这一点，人生会变得更从容些吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;《&lt;a href=&quot;http://book.douban.com/subject/10345560/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;离别之音&lt;/a&gt;》的扉页上这样写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;生命中那些难以忘却的擦肩而过，所留下的痕迹，并非茶碗破碎、大哭大叫的声音，而是不屏气凝神便无法听到的细微声响。那仿佛就在身边，却又在遥远的地方，只要你竖起耳朵自习聆听。清丽淡雅依旧，却风骨日渐明朗。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;青山七惠善于截取生活中细小的篇段引发读者共鸣，就像她自己说的那样，“只能用心把这些琐碎的事情写下来，这是无法抵御的强大的命运的作用。”&lt;/p&gt;
+&lt;h3 id=&quot;电影：夏洛特烦恼&quot;&gt;电影：夏洛特烦恼&lt;/h3&gt;&lt;p&gt;《&lt;a href=&quot;http://movie.douban.com/subject/25964071/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;夏洛特烦恼&lt;/a&gt;》，一部有泪点的喜剧片。珍惜眼前人。&lt;/p&gt;
+&lt;p&gt;于我，它是一段回忆。&lt;/p&gt;
+&lt;h3 id=&quot;戏剧：蒋公的面子&quot;&gt;戏剧：蒋公的面子&lt;/h3&gt;&lt;p&gt;《&lt;a href=&quot;http://www.douban.com/location/drama/20269054/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;蒋公的面子&lt;/a&gt;》，百闻终得一见，精妙。&lt;/p&gt;
+&lt;p&gt;第219场，编剧&lt;a href=&quot;http://baike.baidu.com/link?url=46ADLroWE-vLBywoEpNafYPPsgtxs54xqnBRGef7UZ2b4w_A9HdHEhl1Dv2s-phDgKD8dW62qw00ybRzZGOh-q&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;温方伊&lt;/a&gt;学姐出演时太太。&lt;/p&gt;
+&lt;p&gt;同上，它是一段回忆。&lt;/p&gt;
+&lt;h3 id=&quot;歌曲：Almost_Lover&quot;&gt;歌曲：Almost Lover&lt;/h3&gt;&lt;p&gt;2015年的倒数第二天夜晚，听到&lt;a href=&quot;http://baike.baidu.com/view/1640981.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A Fine Frenzy&lt;/a&gt;的&lt;a href=&quot;http://music.douban.com/subject/3326774/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Almost Lover&lt;/a&gt;，无限循环。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I never wanna see you unhappy&lt;br&gt;I thought you want the same for me&lt;br&gt;Goodbye my almost lover&lt;br&gt;Goodbye my hopeless dream   &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;城市：南京&quot;&gt;城市：南京&lt;/h3&gt;&lt;p&gt;2015年大把大把的时光留在这里，大把大把的回忆定格在这里。&lt;/p&gt;
+&lt;h2 id=&quot;Data_2015&quot;&gt;Data 2015&lt;/h2&gt;&lt;h3 id=&quot;Postcard&quot;&gt;Postcard&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stranger (Postcrossing &amp;amp; ICY)&lt;/strong&gt;&lt;br&gt;Sent:54&lt;br&gt;Received:47 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Friend&lt;/strong&gt;&lt;br&gt;(●’◡’●)I don’t know!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Running&quot;&gt;Running&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Half Marathon&lt;/strong&gt;&lt;br&gt;Wuxi 02:21:20&lt;br&gt;Nanjing 02:14:21 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise&lt;/strong&gt;&lt;br&gt;368.1km&lt;br&gt;49.4h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2016年继续喜欢的事(❤ ω ❤)，继续记录生活点滴。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E6%9C%88%E4%BA%AE%E5%84%BF.jpg&quot; alt=&quot;月亮·from花瓣&quot;&gt;&lt;/p&gt;
+&lt;p&gt;采集这张图，是因为我想起了前几日南京极亮极圆的月亮。&lt;/p&gt;
+&lt;h2 id=&quot;Favourite_2015&quot;&gt;Favourite 2015&lt;/h2&gt;&lt;p&gt;受&lt;a href=&quot;http://lightory.net/&quot;&gt;刘白光&lt;/a&gt;学长的启发，我也把我所热爱的2015，写在这里。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵感录</title>
+    <link href="http://aqiqi.me/2015/12/01/10.%E7%81%B5%E6%84%9F%E5%BD%95/"/>
+    <id>http://aqiqi.me/2015/12/01/10.灵感录/</id>
+    <published>2015-12-01T13:05:30.000Z</published>
+    <updated>2016-02-25T04:42:16.285Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/花房.jpg&quot; alt=&quot;花房·from花瓣&quot;&gt;&lt;/p&gt;
+&lt;p&gt;“懂得惊叹于细小事物之美的人行走在光下。”——— 一位法国创意设计师&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;昨天在&lt;a href=&quot;http://baike.baidu.com/link?url=F5ayPegAAQ47YrW3YRQmqDhInCjV3uBHyYB5Hc1vQ5uwJBozU2eTvQ15IjztSpEX6FoxFcKHuk2NaaVo1naMna&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;朱赢椿&lt;/a&gt;老师的讲座上得到这句话，直击内心，很是喜欢。座无虚席的教室里，倚靠着最里边的落地窗，我在本子上一笔一下写下这句话。讲座的名字很有诗意，“温柔的纸，多情的书”。很久没有遇到如此吸引我的内容了，就像朱老师说的那样，“来了你绝对不会后悔的！”&lt;/p&gt;
+&lt;h2 id=&quot;灵光乍现&quot;&gt;灵光乍现&lt;/h2&gt;&lt;p&gt;朱老师做书，简言之从写书、设计、编辑、出版全由一个人完成，角色转换极多，一会是诗人、作家，一会又是设计师、创意家，同时还是编辑、出版人。朱老师用他的十二部书（有些是自己写的，有些是为朋友设计的），告诉我们阅读的另一种可能性。&lt;/p&gt;
+&lt;h3 id=&quot;《不裁》&quot;&gt;&lt;a href=&quot;http://book.douban.com/subject/1957996/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《不裁》&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;不裁须裁。读者每读一页需要用纸刀将没有裁切过的书轻轻裁开。&lt;/p&gt;
+&lt;p&gt;有人说“这裁开了的书页就像狗啃了似的。”&lt;/p&gt;
+&lt;p&gt;“书做的太精致了读者会紧张。”老师如是说。&lt;/p&gt;
+&lt;h3 id=&quot;《语录杜尚》&quot;&gt;&lt;a href=&quot;http://book.douban.com/subject/24846610/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《语录杜尚》&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;“我总是以好玩的想法导致自己做事的。”————马塞尔·杜尚&lt;/p&gt;
+&lt;p&gt;编者做了一本杜尚所言“有趣”的书。&lt;/p&gt;
+&lt;h3 id=&quot;《虫子旁》&quot;&gt;&lt;a href=&quot;http://book.douban.com/subject/25961294/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《虫子旁》&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;“当我趴在地上看虫的时候，在我的头顶上，是否还有另一个更高级的生命，就像我看虫一样，在悲悯地看着我。”&lt;/p&gt;
+&lt;p&gt;一部图文集，大量的留白。&lt;/p&gt;
+&lt;p&gt;他想和读者共创作。&lt;/p&gt;
+&lt;h3 id=&quot;《虫子书》&quot;&gt;&lt;a href=&quot;http://book.douban.com/subject/26611725/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《虫子书》&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这是一部虫子自己创作的作品，人类不懂。&lt;/p&gt;
+&lt;p&gt;“是造物的神奇，仿佛也是生命的偈语，等待有心者的发现。”&lt;/p&gt;
+&lt;h2 id=&quot;想和朱老师一起做書&quot;&gt;想和朱老师一起做書&lt;/h2&gt;&lt;p&gt;把“書”写成繁体，因为它更有味道。名字里亦有一个“書”字，相信此生与书有缘。很久没有遇到愿意站着听两个多小时听完丝毫不想走的讲座了。当我昨天踏入教室听朱老师娓娓道来的时候，我的心强烈地告诉我，这是你喜欢的事。&lt;/p&gt;
+&lt;p&gt;如何开始？我尚不知晓。朱老师说自己是在经济条件允许的情况下开始做書之旅的。在国内做创造性的工作不易，不要想着两年三年就要收获，风物长宜放眼量。&lt;/p&gt;
+&lt;p&gt;好像一下子拥有了无所畏惧的力量。我总是以喜欢的想法导致自己做事的。&lt;/p&gt;
+&lt;h2 id=&quot;灵感采撷法&quot;&gt;灵感采撷法&lt;/h2&gt;&lt;p&gt;灵感多为偶得。每个人都有灵感，不过绝大多数人在抓住灵感前已经遗忘了。&lt;/p&gt;
+&lt;p&gt;我喜欢用纸和笔记录灵感。随身小本给我无限安全感。&lt;/p&gt;
+&lt;p&gt;任何事、任何人的一句话、任何面对万物生灵的跳跃的思维都可以成为触动你心的电流。于你，它们皆为灵感。&lt;/p&gt;
+&lt;p&gt;这是今天的灵感。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;凡是要留有余地，就像路由器需要冗余，否则会陷入某种死锁。（来自颖哥的《计算机网络》）&lt;/li&gt;
+&lt;li&gt;为什么很多小时候不喜欢吃的东西长大后变得很是喜欢？（贴知乎上的回答&lt;a href=&quot;http://www.zhihu.com/question/27980226&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;人对不同食物的喜恶，是由心理还是生理决定的？&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;人永远无法做到绝对客观。最近觉得自己在描述事情时常常是有偏向性、带有个人主观色彩的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;灵感缀连&quot;&gt;灵感缀连&lt;/h2&gt;&lt;p&gt;相信有一天，热爱自然、惊叹于细微之美的人都能成为生活美学家。&lt;/p&gt;
+&lt;p&gt;写下两件想做的事：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开一家温馨有爱的花店/烘培店/手工坊o(^▽^)o都是我喜欢的啊&lt;/li&gt;
+&lt;li&gt;做書 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（截止时间定在60岁吧！）&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/花房.jpg&quot; alt=&quot;花房·from花瓣&quot;&gt;&lt;/p&gt;
+&lt;p&gt;“懂得惊叹于细小事物之美的人行走在光下。”——— 一位法国创意设计师
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="灵感" scheme="http://aqiqi.me/tags/%E7%81%B5%E6%84%9F/"/>
+    
+      <category term="生活美学家" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%A6%E5%AE%B6/"/>
+    
+      <category term="讲座" scheme="http://aqiqi.me/tags/%E8%AE%B2%E5%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>立冬记</title>
+    <link href="http://aqiqi.me/2015/11/08/9.%E7%AB%8B%E5%86%AC%E8%AE%B0/"/>
+    <id>http://aqiqi.me/2015/11/08/9.立冬记/</id>
+    <published>2015-11-08T03:05:30.000Z</published>
+    <updated>2016-02-25T04:42:07.701Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/立冬节气.png&quot; alt=&quot;立冬·图片采集自花瓣&quot;&gt;&lt;br&gt;早晨起床，喝一杯温热的蜂蜜水，给昨晚趴在床上写好的三张明信片依次贴上邮票，背上装着电脑的书包，提起放在洗漱台下的空水瓶，开门，冷风飕飕，一个寒颤震得我清醒极了。风从领口、袖口、裤腿灌进来，不到一秒钟我就和这低沉的天、寂静的地、凛冽的风、枯黄的叶融为了一体。深吸一口这结实的冷空气，我想我是喜欢这这样的沉郁的。今日立冬。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;我干什么去了&quot;&gt;我干什么去了&lt;/h2&gt;&lt;p&gt;想来已经快两个月没有写博客、一个月没有寄明信片了。这么久没有干自己喜欢的事情真是心里有愧。自十一和姐姐去了一趟上海后也没有再去哪里浪，一方面天生浪属性就不强，另一方面也没有人带我浪。大多数时间我都呆在学校里，一个人去饭堂吃饭，一个人在教室自习，一个人去图书馆看书，一个人去听讲座，一个人对着电脑做喜欢的事，比如看博客、整理文件、查找小tips、倾羡一下别人的生活然后鼓励自己好好努力。总之，在没有人与人交接的场合，我觉得我才是我自己，才能真实感觉到自己的存在。偶尔和室友约饭，孜孜说她这学期变得很依赖，吃饭的时候想有人陪着。有人说女生一个人吃饭看起来很孤独，不过我从来没有过这样的感觉。&lt;/p&gt;
+&lt;p&gt;这段时间倒是读了不少书。呆在图书馆安静读书写书摘对我来说真是人生一大乐事。我珍惜这样衣食无忧有书读的日子。孜孜说看到一篇文章里说幸福就是“有吃有喝、家庭美满、三观一致”。我绝对认同。按这样的标准来看，我们起码已经比80%以上的人幸福了吧。虽然幸福不是比较出来的，但是相比于战争、饥寒、疾病、争吵、谩骂，我们平时所忧虑的鸡毛蒜皮的事情简直不值一提。&lt;/p&gt;
+&lt;p&gt;这段时间还有一段回想起来也不坏的经历。人的一生中，会有多少和另一个人从陌生到熟悉有到陌生的经历，或者是从未熟悉，就擦肩而过，就像我很喜欢的作家青山七惠《离别之音》里写的那样。立冬的解释里有一句是“万物收藏”，我想我也会在即将到来的冬日的夜晚，把这个秋天发生的故事记下来，一一珍藏。&lt;/p&gt;
+&lt;h2 id=&quot;可能长大了&quot;&gt;可能长大了&lt;/h2&gt;&lt;p&gt;前两天和CoCo吃晚饭时聊天，发现我们的心态很像。上了大三，倒是没有了大一大二的时候对未来过分的担心和焦虑，多了些坦然和安心。“世事难预料，特别是在牵扯到未来的时候。”既然这样，那么过好现在每一天的生活就显得很重要。回想一下大一大二的生活，好像除了好好学习让自己变得更优秀，我就没有别的念头了。很多人跟我讲说：“是你太乖了！”我自己也这样觉得。CoCo说这就是我们和一线城市长大的小孩的差别，我们做事情犹豫不决顾虑很多，不像他们方向很坚定而且勇敢果断，所以不知不觉中我们就错失了很多机会。&lt;/p&gt;
+&lt;p&gt;昨天写明信片的时候我还在想大学期间应该是没有出国学习的机会了，感觉挺遗憾的。不过也坦然接受现实吧。从现在起，人生还有很多没有尝试过的事等待我去经历，还有很多没有看过的风景等待我去驻足。可能这就是成长吧。学会了接受不完满的生活、接受不能改变的，悦纳自己，勇敢尝试。&lt;/p&gt;
+&lt;p&gt;昨天看到一篇微信推送，刚好是写陆陆高中同学的故事，陆陆说他是那种没有功利心的人，这是我喜欢的秉性。他喜欢篆刻，所以就一门心思刻印章；喜欢古琴，所以就静心凝神练古琴。一下子觉得自己很浮躁。说到喜欢的事情，好像有很多，写字、画画、养花、跑步都是我喜欢的，但是很多时候我都没有坚持下来。有时候是觉得时间不够，因为我做事有点儿慢吞吞，必须要做的事情就压榨了自己的爱好；有时候是因为懒，天气原因心情原因各种原因都成了我偷懒的借口；有时候是因为怕做不好，怕写的字画的画不如人意，追求完美，所以刚提笔信心就折了一大半。既然找到了原因，就要改变。心意写到这里，下面就看行动了。&lt;/p&gt;
+&lt;p&gt;还有觉得自己长大的一方面就是我更加能理解体谅爸妈了。比起高三时因为他们的宽容和迁就而竭力地在他们面前控制自己不好的情绪，现在的我更加能够站在他们的角度想问题，心平气和地和他们沟通交流，我听的进去他们的建议，他们也会尊重我的选择，这种感觉真好。人真的很傻，往往不顾最爱自己的人的感受，在他们面前爆发。之前的我一直都是这样的傻子。&lt;/p&gt;
+&lt;h2 id=&quot;慢吞吞的人生&quot;&gt;慢吞吞的人生&lt;/h2&gt;&lt;p&gt;原来在别人眼里我总是慢吞吞的，像个蜗牛一样。在家的时候，妈妈说我特别“肉”，做事不麻利。和CoCo聊天，CoCo说我们都是很细心的慢性子。回去问舍友，大汤圆说我说话慢性子也慢。嘿！我以前还一直觉得自己有点急性子呢！说到底还是认识自己最难啊。高中的时候，坐在我和嘎姐后面的大黄说你们真是一个急性子和一个慢性子遇到一起了，当时我还觉得他是开玩笑呢！我当时可是5分钟洗漱完毕10分钟吃完饭的人啊。可能“急”和“慢”不光得看行动，还要往心里看呢！&lt;/p&gt;
+&lt;p&gt;果然，上了大学后，没有时间的高压，我的慢吞吞的人生就开始了。慢悠悠吃饭、走路、写字、看书对我来说就是一种享受&lt;br&gt;。说实话，我挺喜欢这样慢吞吞的生活的，就像我喜欢羡慕期待老年人的生活一样。在不拖沓不坑队友按时完成任务的前提下，慢下来也没有什么不好的吧。而且这样有条不紊的慢节奏才是我可以掌控的。&lt;/p&gt;
+&lt;p&gt;“不喜欢激烈和竞争，追求平和与专注”，人格测试的结果真的很准确。我不喜欢激烈的竞争、激烈的人，对我来说他们都是十足的aggressive。所以我更喜欢温和的人、喜欢温和的故事、喜欢专注的人。激烈的争辩，激烈的陈词，激烈的敲击键盘的声音，激昂的目标和誓言都在我的频率干扰范围，是我所抵御的。&lt;/p&gt;
+&lt;p&gt;当然，一个人的情绪和所做的事情又很容易受到周围人的影响。有时候我也觉得自己是不是太没有斗志太沉浸在comfort zone里面了，试图也像他们一样斗志昂扬的生活，结果是无果。其实不管是激烈的还是平和的，每个人都有自己适合的节奏，没有必要强求。可是自己有时候想不明白这道理，偏偏会和别人比，觉得事不如人，卑从心来。想明白道理后，发现只不过是“庸人自扰”罢了。&lt;/p&gt;
+&lt;h2 id=&quot;碎碎念也有意义&quot;&gt;碎碎念也有意义&lt;/h2&gt;&lt;p&gt;博客上好像写了很多这样的碎碎念，但都是我真真实实的感受。我很喜欢看别人笔下的生活，常在学姐学长以及陌生人的博客里发现不谋而合的观点、极其相似的困境以及十分巧合的心情，常常在前人的经历中有所收获。正是这样，我的碎碎念也就有动力写下来了。这一点点小记录，于我，下次再遇到相同的困窘时，不用再从头摸索；于读者，若遇到相似的心情，可能会从中找到一些安慰。&lt;/p&gt;
+&lt;p&gt;秋收冬藏。把一些经历和心情都珍藏起来。希望把这个冬天过成自己喜欢的样子。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/立冬节气.png&quot; alt=&quot;立冬·图片采集自花瓣&quot;&gt;&lt;br&gt;早晨起床，喝一杯温热的蜂蜜水，给昨晚趴在床上写好的三张明信片依次贴上邮票，背上装着电脑的书包，提起放在洗漱台下的空水瓶，开门，冷风飕飕，一个寒颤震得我清醒极了。风从领口、袖口、裤腿灌进来，不到一秒钟我就和这低沉的天、寂静的地、凛冽的风、枯黄的叶融为了一体。深吸一口这结实的冷空气，我想我是喜欢这这样的沉郁的。今日立冬。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="心情" scheme="http://aqiqi.me/tags/%E5%BF%83%E6%83%85/"/>
+    
+      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>伪技术博客诞生记</title>
+    <link href="http://aqiqi.me/2015/09/15/8.photo%E4%BC%AA%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/"/>
+    <id>http://aqiqi.me/2015/09/15/8.photo伪技术博客诞生记/</id>
+    <published>2015-09-15T11:55:30.000Z</published>
+    <updated>2016-02-25T04:41:59.787Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;伪技术博客&quot;&gt;伪技术博客&lt;/h2&gt;&lt;p&gt;我所见的独立博客大多数是技术博客，比如LilyStudio前辈们常在自己的博客上写开发心得、技术指导或学术资料。我是在他们的影响下创建这个博客的。本想着可能在上面写一些读书笔记、交互设计学习心得、PS技能的文章，但目前看来这完全是一个写满心情的日记本，分类里有且只有“随笔”，随笔所记基本都是些波澜起伏的心路历程。&lt;/p&gt;
+&lt;p&gt;所以今天我决定一改风格，给博客注入伪技术的血液。注意，是伪技术。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;如何把一张照片变成新海诚风格&quot;&gt;如何把一张照片变成新海诚风格&lt;/h2&gt;&lt;h3 id=&quot;找一张适合的照片&quot;&gt;找一张适合的照片&lt;/h3&gt;&lt;p&gt;什么样的图片算是合适的呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;静物、风景（没有人物、车辆）&lt;/li&gt;
+&lt;li&gt;有天空的（新海诚的精髓就在天空和云朵上，这样好偷天换日）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;比如说我下面选的这幅图，图片采集自&lt;a href=&quot;http://huaban.com/pins/452611571/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;花瓣&lt;/a&gt;。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/ps花瓣.jpg&quot; alt=&quot;原图&quot;&gt;&lt;br&gt;这张图本身就带点日漫的感觉。&lt;/p&gt;
+&lt;h3 id=&quot;简单粗暴的PS技法&quot;&gt;简单粗暴的PS技法&lt;/h3&gt;&lt;p&gt;此部分内容参考一个大神&lt;a href=&quot;http://spacekid.me/cartoon-style-2/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;太空小孩&lt;/a&gt;的博客。&lt;br&gt;我直接按照他所谓简单粗暴的方法在PS中对原图进行了处理。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/ps新海诚.jpg&quot; alt=&quot;新海诚风格&quot;&gt;&lt;br&gt;个人感觉上半部分略接近新海诚风格，下半部分的摩托车、自行车以及广告牌直接拒绝了这种风格，可见选一张合适的照片是多么的重要（渣渣捂脸）！&lt;/p&gt;
+&lt;p&gt;在调整图片色相的时候发现自己对于色彩的概念很模糊，只能逐一试之做比较，而且大多数情况自己也无法说出哪种效果更佳。就和做海报的时候调来整去最终还是以看心情收尾一样。&lt;/p&gt;
+&lt;h2 id=&quot;为什么要写这个博客&quot;&gt;为什么要写这个博客&lt;/h2&gt;&lt;p&gt;虽然是伪技术博客，或者说和技术完全不搭边（目前为止），那为什么还要写这个博客呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;复用的语言。给希望了解我的人提供一种可以了解我的途径，且无需赘述。&lt;/li&gt;
+&lt;li&gt;可见的记录。日记本上的胡言乱语羞于见人，写博客重逻辑重思考重言语措辞。笔耕不辍，必有收获。&lt;/li&gt;
+&lt;li&gt;延续的事情。这是一件只要愿意就可以坚持很久的事。一个社交基因缺陷者在独处时光里坚持一件喜欢的事情，很安心。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;伪技术博客&quot;&gt;伪技术博客&lt;/h2&gt;&lt;p&gt;我所见的独立博客大多数是技术博客，比如LilyStudio前辈们常在自己的博客上写开发心得、技术指导或学术资料。我是在他们的影响下创建这个博客的。本想着可能在上面写一些读书笔记、交互设计学习心得、PS技能的文章，但目前看来这完全是一个写满心情的日记本，分类里有且只有“随笔”，随笔所记基本都是些波澜起伏的心路历程。&lt;/p&gt;
+&lt;p&gt;所以今天我决定一改风格，给博客注入伪技术的血液。注意，是伪技术。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="PS" scheme="http://aqiqi.me/tags/PS/"/>
+    
+      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
+    
+      <category term="新海诚" scheme="http://aqiqi.me/tags/%E6%96%B0%E6%B5%B7%E8%AF%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>支教记</title>
+    <link href="http://aqiqi.me/2015/08/05/7.photo%E6%94%AF%E6%95%99%E8%AE%B0/"/>
+    <id>http://aqiqi.me/2015/08/05/7.photo支教记/</id>
+    <published>2015-08-05T12:57:30.000Z</published>
+    <updated>2016-02-26T10:18:27.777Z</updated>
+    
+    <content type="html">&lt;p&gt;时间：2015年夏&lt;br&gt;地点：广西都安安阳六小&lt;/p&gt;
+&lt;h2 id=&quot;以图说事&quot;&gt;以图说事&lt;/h2&gt;&lt;h3 id=&quot;人在画里游&quot;&gt;人在画里游&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao4.jpg&quot; alt=&quot;雨时·远山如黛&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;这张图是何老师在某个久雨初霁的清晨拍摄的，大爱，果断盗之。就像杨李说去了黄山她才觉得国画山水写意简直是写实，来到都安我才第一次觉得远山如黛，好似一幅水墨画。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao21.jpg&quot; alt=&quot;晴时·青山在目&quot;&gt;&lt;br&gt;县城就在山脚下。虽然家乡也多山，但坐在大巴上一觉睡醒看见窗外峻峭的山也是惊喜极了。家乡的山连绵，这儿的山峻峭。我说这里的山俊得很，和这里的人一样（这里的小孩子都很好看，眼睛又大又水灵），大家都笑了。&lt;/p&gt;
+&lt;h3 id=&quot;夜爬翠屏山&quot;&gt;夜爬翠屏山&lt;/h3&gt;&lt;p&gt;刚到都安的那个周末，安琪、雪阳、QQ和我组成的爬山小分队欣（sàng）喜（xīn）若（bìng ）狂（kuáng）四点半起床夜爬翠屏山（不过对QQ来说这是正常作息）。孜孜说听到翠屏山的名字想到了以前看的小说感觉怨气深重，我们爬山的时候也有种盗墓笔记的既视感。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao22.jpg&quot; alt=&quot;山·亭·朝霞&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao23.jpg&quot; alt=&quot;山·松·月&quot;&gt;&lt;br&gt;早起的人儿不会错过美丽的风景。伫立山顶，随手一拍，尽是风景。&lt;/p&gt;
+&lt;h3 id=&quot;食为天&quot;&gt;食为天&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao29.jpg&quot; alt=&quot;盛情款待&quot;&gt;&lt;br&gt;校长请我们在副校长家里吃饭！（这句话好绕哇）因为副校长是学校食堂的负责人，二级厨师，家就在学校背后。这是我们三周来最最丰盛的一顿饭。至于我们这三周是怎么活过来的，请问&lt;strong&gt;乌江榨菜&lt;/strong&gt;和&lt;strong&gt;老干妈&lt;/strong&gt;吧！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao10.jpg&quot; alt=&quot;螺丝粉&quot;&gt;&lt;br&gt;第一天中午冰冰小妹妹带我们去都安最好吃的一家螺蛳粉店吃粉，被昕羽夸&lt;strong&gt;太能吃辣&lt;/strong&gt;。在南京几个月没吃过辣还能保持如此之高的抗辣指数我只能说这是天生的咯。&lt;/p&gt;
+&lt;h3 id=&quot;你们&quot;&gt;你们&lt;/h3&gt;&lt;p&gt;三周时间太短，来不及教给你们更多的知识。三周时间太长，足以改变我们的心境和态度。我不会忘记临走前你们不舍的神情，不会忘记你们写的卡片和字条，不会忘记你们眨巴着眼睛问我们明年还来不来。那个阵雨过后六点半的早晨，瘦小的春丽出现在校门口送我们走，而我不敢回头看。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao12.jpg&quot; alt=&quot;榕树下·合影&quot;&gt;&lt;br&gt;一二年级的小孩在大榕树下合影。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao13.jpg&quot; alt=&quot;合影&quot;&gt;&lt;br&gt;冰冰、何玲、春丽、小天使，这是上课听讲最最认真的小姑娘们。&lt;/p&gt;
+&lt;h3 id=&quot;一瞬&quot;&gt;一瞬&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao5.jpg&quot; alt=&quot;猪猪猪&quot;&gt;&lt;br&gt;这是手工课后小盆友们送给QQ的，人以类聚，猪以群分。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao8.jpg&quot; alt=&quot;蜜瓜精灵&quot;&gt;&lt;br&gt;都安多瓜果，头一次见这么好看的哈密瓜。&lt;/p&gt;
+&lt;h2 id=&quot;日报&quot;&gt;日报&lt;/h2&gt;&lt;p&gt;每晚在朋友圈发的日报，摘录至此。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1&lt;br&gt;在开往南宁的火车上呆一天，应该是第一次坐这么久的火车。上午打掼蛋继续坑队友，学会了三国杀，闲来无事又把纪念碑谷玩了一遍，虽然在这么糙的环境里不太适合这种精致的游戏。听说长途火车和泡面更配喔，可是为了健康生活我还是选择了牛奶面包。昨天三点忽然醒来，想起临走前孜孜特意煮给我的蛋我忘记吃了，也是忧伤,Sorry…明天5点钟迎接南宁的黎明，期待早餐可以吃到米粉★&lt;/li&gt;
+&lt;li&gt;Day 2&lt;br&gt;在南宁解决完早餐就奔向都安，一路上是睡过来的，醒时眼前已尽是峻峭的山，这青山脚下的风景绝对不比桂林的差。安阳六小的环境比我们想象中好太多，没有抱太大希望就不会失望，相反更多了一份意外的惊喜。一进校门繁盛的大榕树极目可见，树荫下是乘凉的好地方。中午两个极乖的小姑娘带我们去县城采购，品尝到了正宗的螺蛳粉，辣就一个字，不过真的好吃极了！住宿从最开始的打地铺变成了有床睡，于是支教第一天装床技能get，蟹蟹帮我们搬床板的小男孩。意外在教室发现一架钢琴，竟觉得有些感动。待明日查好谱子，借模糊的幼时电子琴印象，练习数日，应也能凑合一曲吧。晚餐校长请客，极丰盛，好久没有如此满足啦(≧∇≦)一切都出乎意料，一切都刚刚开始★&lt;/li&gt;
+&lt;li&gt;Day 3&lt;br&gt;今天小孩子们才放假，我们计划下周一开始上课，所以这两天就是备课备课备课(°ー°〃)其实是睡睡睡(｡•́︿•̀｡)。中午嘿大厨师下厨给大家做了支教第一餐——香辣牛肉面(●´∀｀●)明天买来菜后东北大厨就要露一手啦，我要当帮厨！因为停水，我们洗锅洗碗格外节约。看qq刷锅多么娴熟，赐号“刷锅小能手”。晚上又被包饭♪(^∇^*)老师的家里“开门见山”，真是“无须挂画，门外有幅巨画，名叫自然”。两汉子被拉去喝酒，酒肉穿肠过的super嘿自带光环。学校附近步行百米就是哈密瓜地和葡萄园，从未见过这么高颜值的哈密瓜妞，开心★晚上和一帮小屁孩撕名牌，简直凶残，qq被一群小妹妹围攻(ー`´ー)现在的小孩子哇，知道的好多。估计上课hold不住要和他们疯玩了，嗯开心就好。今天小妹妹对我说:蒙嘚嘚呦~开心★&lt;/li&gt;
+&lt;li&gt;Day 4&lt;br&gt;刚做完午饭又要开始考虑晚饭，做完晚饭又要开始琢磨明天的饭，生活本不易。这是正式开火的第一天，大家都很勤快，炊事班班长的手艺超赞。当帮厨很开心，不仅可以get许多新技能，关键…还可以边做边吃(≧∇≦)下午可爱的小男孩告诉我他们这里认为长得黑的人比较勤奋，长得白的人比较懒惰(ー`´ー)嗯，以后就夸人勤奋好了。稻香时节，小孩子们也要下地帮忙割稻，所以他们看起来真的都很勤奋！晚上又是一帮孩子来撕名牌，小孩子的那点心思，一眼就可以看出来，但却不忍心，所以在他们面前自己也像一个小孩子。突然有一种很强烈的无力感，除了可能留下一段美好难忘的记忆外，我什么也做不了。今夜繁星满天，很久很久没有这样的夜晚了。愿每个人的未来都像今晚的星星一样美好。&lt;/li&gt;
+&lt;li&gt;Day 5&lt;br&gt;凌晨四点半起床爬山，格外清醒。出门时月牙儿还挂在天边，星星也撒在天幕。举起手机想拍一张，只有漆黑一片。偶然看见一只孤单的萤火虫闪烁着弧线。翠屏山像个睡美人，在朝霞里慢慢苏醒，随手一拍，尽是风景。顺着下山的石阶走到一个巷子里，发现竟是第一天小妹妹带我们吃米粉的地方，心心念念的米粉得来全不费工夫。中午依旧大厨掌勺，樱桃肉、手撕包菜、茄盒，第一次吃里面夹着鸡肉的茄盒。在这样艰苦的环境里，做这么精致的饭还是需要体力和耐力的。每天白天都会停水，这两天气温很高，夜里常常被热醒，喝的水基本都用来出汗了。才知道前几日的凉爽和没有蚊子都是偶然。晚上以龟速跑步，热极，路遇中华田园犬数条，忙停脚步观察之。锻炼的计划还是乖乖放弃好了。明天开始上课，信心已经折了一半。愉快地决定第一节课就做自我介绍了。&lt;/li&gt;
+&lt;li&gt;Day 6&lt;br&gt;正式上课第一天，六点多小孩就来了，而且都没吃早饭，因为平常的话学校是会供应早餐的。给一二年级上科学课，做了三个小实验，忘拿了实验用具所以就临场发挥，还好低年级的小盆友比较好骗。给三四年级上书法课，小女生们可爱极了，特别灵性！小男生们呆呆憨憨的，也算可爱。发现曲学霸的干儿子也是个小学霸，作业写的又快又好。答应给他们每个人写小篆的名字，其实戚老师也是要查电脑才会写的。下午我做饭，果然还是我妈懂我。心好累。用大锅做饭的好处就是怎么也不会焦掉，但是做完饭鼻孔里总是黑乎乎的。一个离县城不到两千米的学校没有英语老师，一到六年级从来没有上过英语课。城市里四岁的孩子问着灌木和乔木的区别，浮力和张力是什么的时候，他们说他们最讨厌夏天，因为夏天要割稻谷晒稻谷。时常想怎样才是最好的成长，后来发现此题无解。很多事情无法选择，很多差距是一点一点拉开的。然而这些他们要长大后才会明白。&lt;/li&gt;
+&lt;li&gt;Day 7&lt;br&gt;今天很感动。想明白了一些问题。生活是最好的未来。&lt;/li&gt;
+&lt;li&gt;Day 8&lt;br&gt;小孩子给我们拿来了煮八宝粥食材，里面还细心地放了一条自家做的麦芽糖，晚上喝着甜甜的粥心里暖暖的，已经吃了数顿白米饭白米粥的哥哥姐姐们觉得这简直棒极了。因为我们吃掉了太多碎冰冰，今天起已经揭不开锅了(╥﹏╥)，直接上榨菜、海带丝以及大葱炒鸡蛋。几天下午第一次点火成功，新技能get.在大厨的教导下，我的厨师之路从终结的边缘挣扎了回来。暑假回家绝对可以露一手。晚上下了阵雨，凉快了一些，第一次见这么猛的雨！今天的科学课给他们做了四个小实验，小孩子们都很聪明，还提了不少值得思考问题，不过明显男孩子要比女孩子对科学的热情和好奇心更强烈些。看着他们好奇的目光，积极的思考和踊跃的发言，我觉得我要更努力地备课上课了，说不定…科学家的梦想就在这个时候萌生呢！&lt;/li&gt;
+&lt;li&gt;Day 9&lt;br&gt;今天我们成功点起两口锅，每次点火的时候轰的一下就像火箭发射。大黑熊的干儿子给我们带来一条大鱼，感人！大家欢快地决定明天中午吃酸菜鱼啦，然而我得赶快去下载『下厨房』。让全中国人热血沸腾的女神一定是陶华碧，有了老干妈，我们晚饭只用煮白粥就好啦♪(^∇^*)今天发现自己真有当老师的潜质，随机应变，循循善诱(●´∀｀●)晚安★&lt;/li&gt;
+&lt;li&gt;Day 10&lt;br&gt;今天的生活精彩极了！因为吃了好吃的！许久以来第一次有饱的感觉！补记昨天的一件大事。昕羽教三四年级的小盆友折小猪，下课后每个小盆友手里一只猪奔向楼上送给他们亲爱的qq猪老师，场面蔚为壮观。在每一只小猪的背后刻有“你是猪”的字样(≧∇≦)晚上吃烧烤的路上，曲学霸一直在数独数独数独。意外捕获黑白配照片一张。大黑熊居然有美人尖。带上发箍一秒变大圣。中午的酸菜鱼完全小草老师一人挑大梁，破肚、掏肠、刮鳞、片鱼…两个东北大汉+一个山东大汉居然忍受不了鱼腥味，于是中午我们吃酸菜鱼他们自觉蛋炒饭。今天有小盆友萌萌哒问小草老师『老师乃萌是不是花儿与少年哇』？我们都惊呆了。嗯，我们的阵容看起来真像呢！hhh…今天收到小盆友折叠的花和心，开心。有一个一年级的小女孩每次见到我就说『老师为什么你说话辣么像小孩子…』我说我就是小孩子哇…然后她会一脸嫌弃地看着我(ー`´ー)今天上课很失败(｡•́︿•̀｡)给他们放萌宠成长记、比克曼的科学世界、千与千寻、动物运动会，他们都不喜欢看(°ー°〃)问他们想看什么，答:花千骨、盗墓笔记、旋风少女、僵尸片…好吧，下周上课的画风就是这样了╮(╯_╰)╭&lt;/li&gt;
+&lt;li&gt;Day 11&lt;br&gt;搬砖一整天，右手指肿了。摸螃蟹也没去成。晚上做土豆泥，把鸡蛋打成了那副模样，已经是第二次了。如果你见到我，请一定记得用它来嘲笑我！打我也成！发现一个大秘密，一直以为的恬静美好从不咆哮的安琪队长的真实面目是活泼疯癫一直都在咆哮！果然住在一起久了就会原形毕露！&lt;/li&gt;
+&lt;li&gt;Day 12&lt;br&gt;对付小盆友最好的办法就是不理他不理他不理他！才知道自己小时候有多烦人多烦人多烦人！养孩子要比养猪啊狗啊猫啊难十万八千里。大概是上大学后才慢慢明白其实自己一直成长在一个很宽松自由的环境里，可以被爱被尊重被理解。今天细想了一下自己二十年来所有看起来比较重要的决定，表面看似都听取了爸妈的意见，但无一不是自己的选择。能被人理解和尊重大概是这个世界上最幸福的事情。人有时候想特多，会特别在意别人的眼光。可是生活是自己的啊，快不快乐只有自己才知道。我们时常会谈论目标意义和价值，可是生活这玩意儿从来不是用有没有用去衡量的。对呀，日子还长着呢，急什么，怕什么。&lt;/li&gt;
+&lt;li&gt;Day 13&lt;br&gt;据说淋太阳雨会失恋，所以下午我特意去雨里淋了一番hhh…(ー`´ー)停下来太久，要开始努力了。学习，记录，生活。专注如你。&lt;/li&gt;
+&lt;li&gt;Day 14&lt;br&gt;发现，不管掼蛋还是三国杀，我一贯的风格都是坑队友hhh…(●´∀｀●)我们现在特别原始，每到吃饭时间，大厨在对面楼下对着楼上喊★喽喽喽喽喽…喽吃饭了，大家听到后在楼上回以喽喽喽喽喽…，然后我们就高高兴兴开饭啦！我们今天发现了一个对付qq的好办法(๑•̀ㅂ•́)و✧太好玩！“做饭要像做科学，一定要严谨。”但是为什么每次做饭时我听到最多的还是看！心！情！(´⊙ω⊙`)&lt;/li&gt;
+&lt;li&gt;Day 15&lt;br&gt;晚上杨李讲画，给我普及超多绘画知识，相谈甚欢。发现每个圈子都有自己好玩的东西。会画画的人都太可爱，这张图是他们的接力赛，第一棒和最后一棒之间俨然已隔万水千山。杨李说她要把我们这些天发生的故事都画出来，期待！想起凡人之前在美院门口感慨如果当年是艺术生…其实呢画画这件事是可以做一辈子的，现在开始就一点也不晚。只要开始。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;时间：2015年夏&lt;br&gt;地点：广西都安安阳六小&lt;/p&gt;
+&lt;h2 id=&quot;以图说事&quot;&gt;以图说事&lt;/h2&gt;&lt;h3 id=&quot;人在画里游&quot;&gt;人在画里游&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/zhijiao4.jpg&quot; alt=&quot;雨时·远山如黛&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="回忆" scheme="http://aqiqi.me/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+      <category term="经历" scheme="http://aqiqi.me/tags/%E7%BB%8F%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>半夏</title>
+    <link href="http://aqiqi.me/2015/07/14/6.%E5%8D%8A%E5%A4%8F/"/>
+    <id>http://aqiqi.me/2015/07/14/6.半夏/</id>
+    <published>2015-07-14T14:19:00.000Z</published>
+    <updated>2016-02-25T04:41:29.059Z</updated>
+    
+    <content type="html">&lt;p&gt;半夏时节，我的大学生活也走过了一半。&lt;/p&gt;
+&lt;h2 id=&quot;告别大二&quot;&gt;告别大二&lt;/h2&gt;&lt;p&gt;最后一门考试，打铃，交卷。我的大二仓促收场。&lt;br&gt;写下这句话的时候突然有一种“全剧终”的遗憾。可能是因为偏见，我始终觉得大学最精彩的部分全浓缩在大一大二里，大三大四出国考研找工作，心境早已不似先前。&lt;/p&gt;
+&lt;p&gt;回顾大二的生活，一半海水，一半火焰。&lt;br&gt;大二上学期退掉所有的社团，励志要当学霸，于是图书馆教室机房是我经常出没的地方。每天清晨，在教学楼接水，闻着开水冲腾着的玫瑰花溢出馥郁的芳香，在心里告诉自己又是美好一天的开始。没有课的晚上，喜欢坐在仙Ⅱ四楼角落的教室里静静地看书自习。这样看起来单调平淡的生活其实是我喜欢的，独处的滋味也是我喜欢的。每周五下了颖哥的课，往机房走的路上，和瑜哥探讨许多细节的问题，时常有豁然开朗的感觉。加入小百合策划组，一直打酱油，大家聊的东西很高深，我空有兴趣然而完全听不懂。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因为大一上学期期末的一场讲座和一个寒假的思考，几乎同时定下来毕业后直接工作以及方向是交互设计。那场讲座的主讲人是现华为设计总监尤原庆，人大信管本科，美国HCI硕士。说到信息管理与信息系统这个专业，前辈的第一句话就是赶紧转专业。当时心里凉凉的，想哭哭不出来，毕竟这是自己选择的。这一学期的学习态度有所转变，一方面对专业课的态度转变，觉得只要过得去就可以了，另一方面考虑自学交互设计，时间和精力自然也要分散开来。还有一点是我2015年的新年愿望，我觉得自己应该勇敢、应该说做就做、应该做一个“生活家”。我想在现在这个年龄，我有权利做自己喜欢做的事，还没有到与凡事妥协的地步。&lt;/p&gt;
+&lt;p&gt;所以这一学期发生了不少神奇的事，我想这应该是我大学生涯里非常难忘的学期之一。一个人去无锡跑了第一个半马，搭建了这个现在还只有我自己知道的博客，在可爱舍友的帮助下开始学画，第一次被缘分的力量打动开始默默地关注着一个人，在这个学期结束之际和通信许久的笔友见了第一面。然而这一学期亦是心情最乱担心最多的一学期。每周信息分析课上和孜孜一起思考人生，下课和孜孜汤圆三人一起用食物发泄情绪，然而明知道这只是一个借口，这样只会恶性循环。数据结构从第一节课开始就有乱入的感觉，老师声音很小而且口音重，很难懂，加之课后也没有下功夫，最后的结果自己心里也是清楚的。至于其他的课平时亦没有费很大劲，同时这一学期没有选上通识和公选，晚上没课的日子自然是惰性激增。唯一喜欢的专业课是管理信息系统，原因还是赵萌萌的个人魅力。期末得知他要去别的学校当老师，心情自然很忧伤，再加上隐隐约约了解到背后的原因，更是忧从中来。最后一堂课上，他点了我们所有人的名字，终是未把离别说出口。从院楼出来，坚持走到图书馆西侧的湖畔，眼泪还是忍不住落了下来。期末的时候时常反思自己这一学期的种种“行径”，一个人在交互设计的路上摸爬滚打，走走停停。心不定，断断续续地学习也未有进展，担心自己两年后”毕业即失业”，想家，心情也是时常低落着。忧伤真是这学期的主旋律。&lt;/p&gt;
+&lt;h2 id=&quot;所有的相遇都是久别重逢&quot;&gt;所有的相遇都是久别重逢&lt;/h2&gt;&lt;p&gt;这一章写给我最最亲爱的舍友、同学、以及遇到的美好的人。&lt;/p&gt;
+&lt;p&gt;孜孜、汤圆、陆陆，你们是我在南京这座清冷的城市里最最最亲近的人。我们四个来自不同的地方，有着不同的经历，最最奇特的是学着四个不同的专业，但是，我们的三观极其一致。因为有你们，我在南京也就有了家人。不知道从什么时候起，我们习惯把回宿舍叫做“回家”，4B533就是我们四个人温暖的窝。隔三差五的宿舍夜谈，四个单身狗谈的最多的应该就是情感话题了。汤圆一贯坚持单身，我们仨对这个问题的立场则是摇摆不定，我们早已习惯一个人的生活，但也会有无助、心塞以及对美好的期待。在一次卧谈中，意外发现我们四个都是内向的人，至少我们都喜欢独处。大概只是程度的深浅不同罢了。孜孜说我是内向程度最深的。嗯，这个我是承认的。小时候极内向，不敢和生人讲话，害羞、胆怯。从我知事起，可以感知到周围所有人都觉得内向的性格不如外向的好，妈妈每次向别人介绍我的时候总是忘不了加一句“就是性格有点内向”。以至于在儿时的很长一段时间里我觉得自己和别人交流会有障碍，没有人会喜欢内向的人。长大后，内向的性格其实一直没变，只不过表现出来的东西变了。在一群人里我也会表现得很活跃，在生人面前我也会克服掉所有的羞怯让对方以为我是一个健谈外向的人。可是自己很清楚，我更喜欢独处。“内向性格的人在独处中获得能量，在社交中消耗能量。”特别喜欢知乎上的一个回答————我只是比别人需要更多的独处时间。在别人可以整日和朋友们出门闲逛从不厌倦的时候，我需要在社交活动里，时不时地抽出一些时间独处。&lt;/p&gt;
+&lt;p&gt;感谢嘎姐，33，虽相隔千里，但你们一直与我同在。你们是我想打电话诉说时最先想到的人，是我想寄明信片写信时最先想到的人。每次和嘎姐打电话都会聊好久好久，我绕着操场走啊走，听电话那边熟悉的声音和语气，想象着你此时的表情，都倍感温暖，即使一人，也不觉孤单。因为我知道在这个世界上，有人理解我，有人愿意和我分享，有人无所顾忌帮我分担。&lt;/p&gt;
+&lt;p&gt;特别感谢我的同学，觉得自己真的很幸运，能够遇到优秀的你们。当高中同学抱怨着奇葩的大学同学的时候，我在你们身上学到了很多东西。&lt;/p&gt;
+&lt;p&gt;感谢姐姐、舅妈、舅舅，给我很多帮助，让我在南京不那么无助。&lt;/p&gt;
+&lt;p&gt;感谢我的笔友，一周前的见面很开心，你的健谈让我发现之前的担心都是多余的。我把这件事告诉妈妈，她也觉得这是一件很神奇的事情。在茫茫人海中我寄了一张小卡片给你，你回寄，如此循环。所谓所有的相遇都是久别重逢。&lt;/p&gt;
+&lt;h2 id=&quot;解决问题&quot;&gt;解决问题&lt;/h2&gt;&lt;p&gt;我觉得Peter Fung是一个充满正能量的人，特别是他对我说“我们需要解决的是问题，而不是情绪的问题。”可以感觉到只有经历了才会懂得。其实这一学期我都被情绪的问题困扰，我们的抱怨吐槽、暴饮暴食都源于此。我们明知道这只是借口不是解决问题的方法，可是我们怕，怕费力、怕努力、怕麻烦、怕失败，所以用这种方式逃避。梦想那么远，都是因为懒。&lt;/p&gt;
+&lt;p&gt;这篇文章本来是在考试完后开始写的，写了一半，拖到了现在。&lt;/p&gt;
+&lt;p&gt;现在我在广西都安六小支教。突然觉得，生活就是最好的未来。&lt;/p&gt;
+&lt;p&gt;戚书涵&lt;br&gt;2015/07/14&lt;br&gt;广西都安&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;半夏时节，我的大学生活也走过了一半。&lt;/p&gt;
+&lt;h2 id=&quot;告别大二&quot;&gt;告别大二&lt;/h2&gt;&lt;p&gt;最后一门考试，打铃，交卷。我的大二仓促收场。&lt;br&gt;写下这句话的时候突然有一种“全剧终”的遗憾。可能是因为偏见，我始终觉得大学最精彩的部分全浓缩在大一大二里，大三大四出国考研找工作，心境早已不似先前。&lt;/p&gt;
+&lt;p&gt;回顾大二的生活，一半海水，一半火焰。&lt;br&gt;大二上学期退掉所有的社团，励志要当学霸，于是图书馆教室机房是我经常出没的地方。每天清晨，在教学楼接水，闻着开水冲腾着的玫瑰花溢出馥郁的芳香，在心里告诉自己又是美好一天的开始。没有课的晚上，喜欢坐在仙Ⅱ四楼角落的教室里静静地看书自习。这样看起来单调平淡的生活其实是我喜欢的，独处的滋味也是我喜欢的。每周五下了颖哥的课，往机房走的路上，和瑜哥探讨许多细节的问题，时常有豁然开朗的感觉。加入小百合策划组，一直打酱油，大家聊的东西很高深，我空有兴趣然而完全听不懂。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="大学" scheme="http://aqiqi.me/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最美的风景</title>
+    <link href="http://aqiqi.me/2015/06/14/5.%E6%9C%80%E7%BE%8E%E7%9A%84%E9%A3%8E%E6%99%AF/"/>
+    <id>http://aqiqi.me/2015/06/14/5.最美的风景/</id>
+    <published>2015-06-14T09:25:00.000Z</published>
+    <updated>2016-02-25T04:41:21.123Z</updated>
+    
+    <content type="html">&lt;p&gt;看着在考场外等待的家长，我的回忆蔓延开来。&lt;/p&gt;
+&lt;h2 id=&quot;陪考&quot;&gt;陪考&lt;/h2&gt;&lt;p&gt;记得小升初考完最后一门从考场走出来，在校门口等我的妈妈上前来拉起我的手，我们就这样愉快地回家啦。记得龙岗招生考试大热天爸妈在教学楼警戒线的走廊里从早上等到下午。记得中考的雨天爸爸骑电瓶车来来回回接我好多趟。记得高考的时候学校备车一路警察叔叔护送老师一直在门口守候。&lt;/p&gt;
+&lt;p&gt;高考没有在家考，一直住在学校。至今记得每门考完从考场走出来时外面都有焦急等待的家长在呼唤在拍照。当时心想还好爸妈上班没有时间千里迢迢来陪考，一方面是那样太辛苦，另一方面就是那样看起来真的好sa。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;另一种滋味&quot;&gt;另一种滋味&lt;/h2&gt;&lt;p&gt;今天校园开放日，自招考试。看着考场外等待着的家长，我想，如果未来我还能亲历这样的情景，那也是我撑着阳伞站在警戒线外等着考场里走出来的人吧。再也不会在某次考试之后，被妈妈揽入怀抱，跳上爸爸的电瓶车，看见老师挥动的手。有的可能只是去年冬至那天考完某门专业课后独自走在飘雪的夜里的清寂。&lt;/p&gt;
+&lt;p&gt;所以今天，我看见教学楼前围成团的家长，看见坐在车里困乏的家长，看见树荫下攀谈的家长，竟是如此感动。&lt;/p&gt;
+&lt;h2 id=&quot;最美的风景&quot;&gt;最美的风景&lt;/h2&gt;&lt;p&gt;今天的我望着最美的风景，曾经的我就站在风景里。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看着在考场外等待的家长，我的回忆蔓延开来。&lt;/p&gt;
+&lt;h2 id=&quot;陪考&quot;&gt;陪考&lt;/h2&gt;&lt;p&gt;记得小升初考完最后一门从考场走出来，在校门口等我的妈妈上前来拉起我的手，我们就这样愉快地回家啦。记得龙岗招生考试大热天爸妈在教学楼警戒线的走廊里从早上等到下午。记得中考的雨天爸爸骑电瓶车来来回回接我好多趟。记得高考的时候学校备车一路警察叔叔护送老师一直在门口守候。&lt;/p&gt;
+&lt;p&gt;高考没有在家考，一直住在学校。至今记得每门考完从考场走出来时外面都有焦急等待的家长在呼唤在拍照。当时心想还好爸妈上班没有时间千里迢迢来陪考，一方面是那样太辛苦，另一方面就是那样看起来真的好sa。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="回忆" scheme="http://aqiqi.me/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+      <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新生</title>
+    <link href="http://aqiqi.me/2015/05/31/4.%E6%96%B0%E7%94%9F/"/>
+    <id>http://aqiqi.me/2015/05/31/4.新生/</id>
+    <published>2015-05-30T23:30:00.000Z</published>
+    <updated>2016-02-25T04:41:11.788Z</updated>
+    
+    <content type="html">&lt;p&gt;很久没有这样快乐过了，能得到你们的理解和支持是我这辈子最幸福的事。&lt;/p&gt;
+&lt;h2 id=&quot;从梦想开始&quot;&gt;从梦想开始&lt;/h2&gt;&lt;p&gt;我的梦想是成为一名交互设计师，如果能将它称之为梦想的话。&lt;/p&gt;
+&lt;p&gt;两年前填志愿时曾考虑过“工业设计”、“建筑设计”和“景观设计”这样的专业，可最后的结果是我向爸妈妥协了，可以说是没有争辩、就凭几句“学这些是很辛苦的”“这是要有天赋的”“你又没学过画画”就妥协了。用一个字来形容我，我想“怂”是最恰当不过的了。&lt;/p&gt;
+&lt;p&gt;说实话，这一个学期都是不快乐的。一边在不喜欢但又不得不做的事情里挣扎，一边又努力想触碰到自己喜欢的事。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一次真正的通话&quot;&gt;一次真正的通话&lt;/h2&gt;&lt;p&gt;每天都要给家里打一个电话，可是昨天才是真正的通话。&lt;/p&gt;
+&lt;p&gt;也许是压抑在心太久就要说出来，我把关于梦想、关于未来的设想和期许全部告诉了妈妈。此前，这一内容的谈话可以算是禁区，每谈必吵，索性绕开它不谈，于是便有了许多次“非真正通话”。“非真正通话”像是一次远程会议，但其内容质朴平凡，散发着浓浓的生活气息。大概是我汇报每天的生活起居，远隔千里的爸妈提出饮食、睡眠等诸多生活方面的要求。当然，我是有选择的汇报，他们的要求基本没变过，都是为我好的。&lt;/p&gt;
+&lt;p&gt;禁区产生的原因很清楚，简单说来就是他们想让我毕业后在体制内工作，而我不想。如果不绕开这个话题，被“洗脑”后的我就会“元气大伤”。“女孩子”、“稳定”、“太辛苦”大概是这辈子我最反感的词语了。&lt;/p&gt;
+&lt;p&gt;昨晚的通话是我意料之外的。当我干脆果断地说出自己的想法时，电话里传来妈妈的声音：“你喜欢什么就去做吧，我们全力支持。这个问题我之前想过，我也想明白了。让一个人一辈子做他不想做的事情也太没意思了，以你的性格这样是永远不会快乐的。年轻人还是要和年轻人在一起，有朝气和活力。我和你爸爸也不要你挣大钱，只要你每天的生活开心快乐阳光就好。再说，就算以后没工作了，还有我们呢……”瞬间飙泪，我能感觉到他们视我的痛苦为他们的痛苦，而我迟迟没有理解。&lt;/p&gt;
+&lt;p&gt;那一刻，我脚在地上，心在云端，好像从未这么豁达敞亮过。如释重负，如获新生。有了软肋，也有了铠甲。做事情都有劲了，走在路上都开始小跑了，想到梦想就开始笑了……&lt;/p&gt;
+&lt;p&gt;至于妈妈是怎么想明白的，回家我一定和她细谈。&lt;/p&gt;
+&lt;h2 id=&quot;新生&quot;&gt;新生&lt;/h2&gt;&lt;p&gt;上周把签名改成了“人生苦难重重”，让大家担心不已。在六月来临之前，我又看到了光。接下来要做的，便是努力，靠近梦想。&lt;/p&gt;
+&lt;p&gt;我知道，路漫漫修远，但能得到你们的理解与支持，我已身披铠甲，不畏风雨。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很久没有这样快乐过了，能得到你们的理解和支持是我这辈子最幸福的事。&lt;/p&gt;
+&lt;h2 id=&quot;从梦想开始&quot;&gt;从梦想开始&lt;/h2&gt;&lt;p&gt;我的梦想是成为一名交互设计师，如果能将它称之为梦想的话。&lt;/p&gt;
+&lt;p&gt;两年前填志愿时曾考虑过“工业设计”、“建筑设计”和“景观设计”这样的专业，可最后的结果是我向爸妈妥协了，可以说是没有争辩、就凭几句“学这些是很辛苦的”“这是要有天赋的”“你又没学过画画”就妥协了。用一个字来形容我，我想“怂”是最恰当不过的了。&lt;/p&gt;
+&lt;p&gt;说实话，这一个学期都是不快乐的。一边在不喜欢但又不得不做的事情里挣扎，一边又努力想触碰到自己喜欢的事。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="未来" scheme="http://aqiqi.me/tags/%E6%9C%AA%E6%9D%A5/"/>
+    
+      <category term="梦想" scheme="http://aqiqi.me/tags/%E6%A2%A6%E6%83%B3/"/>
+    
+      <category term="自我" scheme="http://aqiqi.me/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苦难重重</title>
+    <link href="http://aqiqi.me/2015/05/20/3.%E8%8B%A6%E9%9A%BE%E9%87%8D%E9%87%8D/"/>
+    <id>http://aqiqi.me/2015/05/20/3.苦难重重/</id>
+    <published>2015-05-20T11:02:00.000Z</published>
+    <updated>2016-02-25T04:40:54.278Z</updated>
+    
+    <content type="html">&lt;p&gt;很少晚餐过后直接回寝室，从食堂出来，看着夕阳余晖下的一组团，竟觉得有些陌生。&lt;/p&gt;
+&lt;h2 id=&quot;5-20校庆&quot;&gt;5.20校庆&lt;/h2&gt;&lt;p&gt;没有去年那么激动，也没有昨晚期待的那么特别，今天是极平常的一天。&lt;/p&gt;
+&lt;p&gt;早晨，翻出了2013.8.31号在南大门口拍的照片。那天，日光倾城，鲜艳的热气球依偎在蓝天白云的怀抱。照片上的姑娘齐刘海扎马尾，穿短袖衫背斜挎包。那是我吗？那是两年前的我。那是第一次走进大学的我。那是一无所知的我。&lt;/p&gt;
+&lt;p&gt;以前常想：于万千所大学中遇见属于自己的那一所需要多大的缘分。结局落定时才恍然大悟，缘分行事鬼祟，擅于轻轻浅浅悄悄地制造出阴差阳错。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;感谢命运让我来到你这里，让我遇见这些可爱的人。在被刷屏的微博里，我静静写下祝福：愿永远如松挺立，如兰优雅。&lt;/p&gt;
+&lt;h2 id=&quot;圈子&quot;&gt;圈子&lt;/h2&gt;&lt;p&gt;在逃离朋友圈的一个月里，读书了，思考了，值了。&lt;/p&gt;
+&lt;p&gt;每个人在不同的时期会选择呆在不同的圈子里。QQ空间的印记可以追溯到小学，前些日子闲来无事看以前的说说，才知道自己年轻时有多么非主流。上大学后开始用朋友圈，点名从不回，偶尔写心情，大部分转发。唯一钟爱至今的圈子是微博，熟人不多，世界很大。&lt;/p&gt;
+&lt;p&gt;“祝你的生命和你的朋友圈一样精彩。”这话听起来心酸。美化的表象只是慰藉，而生活本来真实的可怕。&lt;/p&gt;
+&lt;h2 id=&quot;距离&quot;&gt;距离&lt;/h2&gt;&lt;p&gt;这是零距离的时代。这是距离无穷大的时代。&lt;/p&gt;
+&lt;p&gt;每次打开QQ的时候都会深吸一口气，我知道眼前将会有密密麻麻背着数字的小红点骚动着不安着，无论我身处何地，有事无事。&lt;/p&gt;
+&lt;p&gt;我渴望距离和等待带来的期盼和欣喜。我寄明信片，我写信。提笔却又悲伤，因为可写的收信人地址是那么的少。&lt;/p&gt;
+&lt;h2 id=&quot;苦难重重&quot;&gt;苦难重重&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;人生苦难重重，这是个伟大的真理，是世界上最伟大的真理。——《少有人走的路》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;相比于心的苦难，肉体的痛苦不值一提。发现思想的鸿沟难以跨越，发现逻辑链上丢掉几环，发现道理似懂非懂若隐若现，想为自己的浅薄而哭。&lt;/p&gt;
+&lt;p&gt;最近的状态浑浑噩噩。用木心的话讲就是一场梦，上了想象力的当。&lt;/p&gt;
+&lt;p&gt;读书笔记迟迟未写，练字亦是静不下心。倒是拼命读书了，原因是你喜欢读书。&lt;/p&gt;
+&lt;p&gt;理解了什么叫“没有开始就已经结束”。&lt;/p&gt;
+&lt;p&gt;当断则断，我做不到。&lt;/p&gt;
+&lt;p&gt;只好假装什么也没发生过，剩下的，统统交给时间吧。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很少晚餐过后直接回寝室，从食堂出来，看着夕阳余晖下的一组团，竟觉得有些陌生。&lt;/p&gt;
+&lt;h2 id=&quot;5-20校庆&quot;&gt;5.20校庆&lt;/h2&gt;&lt;p&gt;没有去年那么激动，也没有昨晚期待的那么特别，今天是极平常的一天。&lt;/p&gt;
+&lt;p&gt;早晨，翻出了2013.8.31号在南大门口拍的照片。那天，日光倾城，鲜艳的热气球依偎在蓝天白云的怀抱。照片上的姑娘齐刘海扎马尾，穿短袖衫背斜挎包。那是我吗？那是两年前的我。那是第一次走进大学的我。那是一无所知的我。&lt;/p&gt;
+&lt;p&gt;以前常想：于万千所大学中遇见属于自己的那一所需要多大的缘分。结局落定时才恍然大悟，缘分行事鬼祟，擅于轻轻浅浅悄悄地制造出阴差阳错。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="自我" scheme="http://aqiqi.me/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>起来嗨和躺下睡</title>
+    <link href="http://aqiqi.me/2015/05/10/2.%E8%B5%B7%E6%9D%A5%E5%97%A8%E5%92%8C%E8%BA%BA%E4%B8%8B%E7%9D%A1/"/>
+    <id>http://aqiqi.me/2015/05/10/2.起来嗨和躺下睡/</id>
+    <published>2015-05-09T16:00:00.000Z</published>
+    <updated>2016-02-25T04:40:43.261Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;拉长时间&quot;&gt;拉长时间&lt;/h2&gt;&lt;p&gt;早起的感觉是极好的。推开门的瞬间，感觉全世界最清新澄静的空气被你吮吸着，全世界最柔和的阳光被你沐浴着。你恨不得想拼命地吸几口，想贪婪地收藏阳光。这种晨间沾着点露气的清明和沉寂是我喜欢的，这大概是我早起的全部动力。&lt;/p&gt;
+&lt;p&gt;当然，早起的美好并不仅限于此。就在今天，我发现它可以把时间拉长。早起的日子里，你在图书馆看完一本书，看一下时间，怎么才九点一刻，还有大把大把的时间等我光临，心里是出乎意料的惊喜和安心。&lt;/p&gt;
+&lt;p&gt;在这种惊喜和安心下，一天的节奏都由你掌控。晚上你踏着月光星光归来时，内心充实安适，没有自责，亦无躁动。这种美好无法言说，但内心自知。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;早起毁一天&quot;&gt;早起毁一天&lt;/h2&gt;&lt;p&gt;不是所有的早起都是美好的。&lt;/p&gt;
+&lt;p&gt;这种毁一天的事上周刚干过。宿舍四人决定第二天早起去食堂吃饭，起床时间定在6:30，做这个决定的时间是凌晨2:00。早上，在闹钟和她们的叫声里，心中的小白人勉强打过懒惰的小黑人。说着笑着吵着嚷着奔向食堂，迎接一顿期待了一宿的早餐。&lt;/p&gt;
+&lt;p&gt;吃东西的时候会犯困的人一定是从外星来的。所以我们吃饱了以后才会困。然后就有了一天之内在图书馆睡四觉每次起来看一眼这个朦胧的世界然后接着睡的事情发生。&lt;/p&gt;
+&lt;h2 id=&quot;鱼和熊掌&quot;&gt;鱼和熊掌&lt;/h2&gt;&lt;p&gt;早起和晚睡的辩证关系听得太多。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;早起不晚睡，晚睡不早起。&lt;/li&gt;
+&lt;li&gt;早上有恒心，晚上不贪心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这就叫做“听过许多道理，依然过不好这一生。”&lt;/p&gt;
+&lt;p&gt;晚上&lt;strong&gt;睡你麻痹，起来嗨！&lt;/strong&gt;的结果只能是早上&lt;strong&gt;嗨你麻痹，躺下睡……&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&quot;嘿，睡觉吧！&quot;&gt;嘿，睡觉吧！&lt;/h2&gt;&lt;p&gt;刚看完晚睡的危害，触目惊心！发誓要早睡早起。&lt;/p&gt;
+&lt;p&gt;自从大一凌晨4:00发说说被母上大人评论后，每天的通话增加了一条固定内容————叮嘱我千万早睡。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美女是睡出来的。&lt;br&gt;睡觉可以减肥。&lt;br&gt;睡觉可以美容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以上言论均出自母上大人之口。&lt;/p&gt;
+&lt;p&gt;在上个月晚睡早起一周里，我的身体已经向我发起抗议，皮肤变差，心情烦躁，体重变化……听妈妈的话是绝对不会错的。&lt;/p&gt;
+&lt;p&gt;没有什么事重要到你可以不爱惜自己。&lt;/p&gt;
+&lt;p&gt;嘿，睡觉吧！地球照样会转的。&lt;/p&gt;
+&lt;p&gt;P.S.今天是母亲节，妈妈我一定听你话！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;拉长时间&quot;&gt;拉长时间&lt;/h2&gt;&lt;p&gt;早起的感觉是极好的。推开门的瞬间，感觉全世界最清新澄静的空气被你吮吸着，全世界最柔和的阳光被你沐浴着。你恨不得想拼命地吸几口，想贪婪地收藏阳光。这种晨间沾着点露气的清明和沉寂是我喜欢的，这大概是我早起的全部动力。&lt;/p&gt;
+&lt;p&gt;当然，早起的美好并不仅限于此。就在今天，我发现它可以把时间拉长。早起的日子里，你在图书馆看完一本书，看一下时间，怎么才九点一刻，还有大把大把的时间等我光临，心里是出乎意料的惊喜和安心。&lt;/p&gt;
+&lt;p&gt;在这种惊喜和安心下，一天的节奏都由你掌控。晚上你踏着月光星光归来时，内心充实安适，没有自责，亦无躁动。这种美好无法言说，但内心自知。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="自我" scheme="http://aqiqi.me/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>After 20</title>
+    <link href="http://aqiqi.me/2015/04/29/1.After%2020/"/>
+    <id>http://aqiqi.me/2015/04/29/1.After 20/</id>
+    <published>2015-04-28T16:00:00.000Z</published>
+    <updated>2016-02-25T04:40:27.916Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;终于折腾好了&quot;&gt;终于折腾好了&lt;/h2&gt;&lt;p&gt;19岁的最后一天晚上，我坐在逸夫楼某教室的最后一排，听着窗外滴滴答答的雨声，一边参考着Markdown的新手指南，一边码着第一篇随笔。写完这句话的时候突然发现人们潜意识里会刻意强调某些数字，比如这里的“最后一天”、“最后一排”和“第一篇”。&lt;/p&gt;
+&lt;p&gt;就好像过了19岁生活会发生惊天逆转，最后一排比其他座位更显独特，第一篇文章预示着一个好的开头一样（虽然事实并不是）。&lt;/p&gt;
+&lt;p&gt;萌生创立博客的想法是在20天前开完例会回宿舍的路上，橘色的路灯下，看着自己的影子，我对自己说：给你20天，准备一个礼物，迎接你的20岁。第二天，我在Outlook上写下这个任务，设置最高优先级，保存，关闭。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其实计划写好后就再没打开过。作为Ddl杀手，我总会在某一刻突然想起此事，心中自责万分愧疚不已，说几句自我安慰加油打气的话，然后再旁若无事地做其他的事，直到昨天到来。&lt;/p&gt;
+&lt;p&gt;我应该好好感谢薛薛老师的课表安排，是她让我在周一早上能够顺利展开“礼物计划”，能够面不改色心不跳翘掉下午的四节课。探索的过程是极快乐并充满成就感的，即便对于技术小白而言，这是一件有点麻烦的事。&lt;/p&gt;
+&lt;h2 id=&quot;喜欢的事&quot;&gt;喜欢的事&lt;/h2&gt;&lt;p&gt;三月到现在，人生阴暗期。究其原因不过是书读太少又想太多。我们急于寻找自己的未来，心里充斥着不安与迷茫，到头来发现，这是现在怎么想也想不清楚的问题。&lt;/p&gt;
+&lt;p&gt;我告诉自己，未来充满变数，不可预知。告诉自己想不明白的时候，心烦意乱的时候，觉得困难的时候，就去读书，读书总不会有错的。告诉自己既然知道不快乐，拿得起放得下，做自己喜欢的事。&lt;/p&gt;
+&lt;h2 id=&quot;After_20&quot;&gt;After 20&lt;/h2&gt;&lt;p&gt;初中时喜欢陈绮贞的After   17,那时还没有17岁，转眼已到了奔三的年纪。回想走过的20年，一帆风顺，没有波澜。不敢说20岁是最好的年纪，但我相信影响人生的绝大多数事情将在此时发生。&lt;/p&gt;
+&lt;p&gt;若以十年为单位，在接下来的一个时段里，选择从事一辈子的行业，遇见相伴一生的伴侣，体验和一个新生命建立联系的奇妙过程可能都会发生。相比之下，已经过去的两个十年显得是那样的顺理成章，自然而然。&lt;/p&gt;
+&lt;p&gt;上周赵萌萌对我们说20多岁时要走出去，过了这个年龄会发现旅行已不是当年心境。触动我的不是这句话，而是他对一群20岁人的羡慕，透过他的眼神可以感知。最近一次感觉到年轻真好。&lt;/p&gt;
+&lt;p&gt;2015年的新年愿望写了两个：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;培养说做就做的勇气&lt;/li&gt;
+&lt;li&gt;积累丰富的生活经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;说做就做，做一个不犹豫的人。积累经验，做一个真正的生活家。&lt;/p&gt;
+&lt;p&gt;After 20,期待是一种怎样的感觉？&lt;/p&gt;
+&lt;p&gt;如果一定要描述，我最先想到的是，昨晚酣畅的暴雨过后，骑着车，吹着风，嗅着泥土气息，穿梭在校园的清新自在。 &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;终于折腾好了&quot;&gt;终于折腾好了&lt;/h2&gt;&lt;p&gt;19岁的最后一天晚上，我坐在逸夫楼某教室的最后一排，听着窗外滴滴答答的雨声，一边参考着Markdown的新手指南，一边码着第一篇随笔。写完这句话的时候突然发现人们潜意识里会刻意强调某些数字，比如这里的“最后一天”、“最后一排”和“第一篇”。&lt;/p&gt;
+&lt;p&gt;就好像过了19岁生活会发生惊天逆转，最后一排比其他座位更显独特，第一篇文章预示着一个好的开头一样（虽然事实并不是）。&lt;/p&gt;
+&lt;p&gt;萌生创立博客的想法是在20天前开完例会回宿舍的路上，橘色的路灯下，看着自己的影子，我对自己说：给你20天，准备一个礼物，迎接你的20岁。第二天，我在Outlook上写下这个任务，设置最高优先级，保存，关闭。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="自我" scheme="http://aqiqi.me/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+</feed>
