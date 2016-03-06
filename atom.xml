@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aqiqi.me/"/>
-  <updated>2016-03-04T12:43:31.866Z</updated>
+  <updated>2016-03-06T06:29:41.363Z</updated>
   <id>http://aqiqi.me/</id>
   
   <author>
@@ -14,6 +14,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>交互体验分析：Fotor</title>
+    <link href="http://aqiqi.me/2016/03/06/17.%E4%BA%A4%E4%BA%92%E4%BD%93%E9%AA%8C%E5%88%86%E6%9E%90%EF%BC%9AFotor/"/>
+    <id>http://aqiqi.me/2016/03/06/17.交互体验分析：Fotor/</id>
+    <published>2016-03-06T05:55:30.000Z</published>
+    <updated>2016-03-06T06:29:41.363Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor0.png&quot; alt=&quot;光影·from Fotor&quot;&gt;&lt;br&gt;这真是一款让人出乎意料爱不释手的轻量级修图App。功能全而精，风格简约时尚。弱化产品本身，默默为用户打造流畅和简洁的体验。她就像一个静静陪你走过春夏秋冬的人，不多言，却贴心。&lt;/p&gt;
+&lt;p&gt;下面就让我们一起体验fotor令人怦然心动的交互细节吧。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;测试环境&quot;&gt;测试环境&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;产品名称：&lt;/strong&gt;Fotor        &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设备型号：&lt;/strong&gt;HUAWEI P6-T00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;产品版本：&lt;/strong&gt;V3.53.426          &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;评测系统：&lt;/strong&gt;Android 4.4.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;巧妙地状态切换&quot;&gt;巧妙地状态切换&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor11.jpg&quot; alt=&quot;图1&quot;&gt;&lt;br&gt;点击右下角FAB，“＋”顺时针旋转45°变成“×”，同时内容动作依次呈现。强化信息的连贯性，让用户明确了解icon两种状态下表示的意思。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有什么比突然变化更显不自然的了，因为这种突然的变化在真实世界中是不存在的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;情景隐藏&quot;&gt;情景隐藏&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor2.jpg&quot; alt=&quot;图2&quot;&gt;&lt;br&gt;当用户自然向下滑动开始浏览时，app栏自动隐藏。当用户回滚页面时，app栏再次出现。并且右下角出现快速置顶按钮，方便用户快速回到顶部。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;情景隐藏既使体验更加情景化（聚焦在内容本身）也增加了屏幕的显示区域。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;涟漪反馈&quot;&gt;涟漪反馈&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor13.jpg&quot; alt=&quot;图3&quot;&gt;&lt;br&gt;在浏览卡片式图片时，轻触屏幕会产生涟漪散开效果。犹如一颗小石子在平静的湖面荡开涟漪。实时反馈用户的操作。&lt;/p&gt;
+&lt;h1 id=&quot;优雅的节奏感&quot;&gt;优雅的节奏感&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor14.jpg&quot; alt=&quot;图4&quot;&gt;&lt;br&gt;关注别人后，圆形头像边缘出现出现环状加载状态，完成后用户头像右下侧出现“√”，”已关注“提示自动收起。给用户流畅体验的同时，把握住节奏感，让用户静下心来慢慢行走在画廊意境中。&lt;/p&gt;
+&lt;h1 id=&quot;透明化浮层&quot;&gt;透明化浮层&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor15.jpg&quot; alt=&quot;图5&quot;&gt;&lt;br&gt;用户点击分享后，透明浮层出现，底部依次升起可分享的图标。用户时刻保持与摄影作品的接触，保证沉浸感。&lt;/p&gt;
+&lt;p&gt;记录这些美好瞬间的时候，耳畔流淌的是刘若英的《春光》。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;朦朦胧胧的一种心境&lt;br&gt;忽冷忽热的一种心情&lt;br&gt;春日的阳光照亮每一个地方&lt;br&gt;陪着你我愿意走进天地苍茫&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;趁着春光正好，用fotor办一场属于自己的摄影展吧！(●’◡’●)&lt;/p&gt;
+&lt;p&gt;交互学习ing，把使用体验和思考记录下来，欢迎大家交流讨论。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor0.png&quot; alt=&quot;光影·from Fotor&quot;&gt;&lt;br&gt;这真是一款让人出乎意料爱不释手的轻量级修图App。功能全而精，风格简约时尚。弱化产品本身，默默为用户打造流畅和简洁的体验。她就像一个静静陪你走过春夏秋冬的人，不多言，却贴心。&lt;/p&gt;
+&lt;p&gt;下面就让我们一起体验fotor令人怦然心动的交互细节吧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
+    
+      <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>交互体验分析：手工客</title>
