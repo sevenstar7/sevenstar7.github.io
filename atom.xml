@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aqiqi.me/"/>
-  <updated>2016-03-30T10:12:43.577Z</updated>
+  <updated>2016-04-06T07:22:02.152Z</updated>
   <id>http://aqiqi.me/</id>
   
   <author>
@@ -16,17 +16,65 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>交互体验分析：涂手</title>
+    <link href="http://aqiqi.me/2016/04/06/22.%E4%BA%A4%E4%BA%92%E4%BD%93%E9%AA%8C%E5%88%86%E6%9E%90%EF%BC%9A%E6%B6%82%E6%89%8B/"/>
+    <id>http://aqiqi.me/2016/04/06/22.交互体验分析：涂手/</id>
+    <published>2016-04-06T06:28:30.000Z</published>
+    <updated>2016-04-06T07:22:02.152Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou0.png&quot; alt=&quot;涂鸦社交·from 涂手&quot;&gt;&lt;/p&gt;
+&lt;p&gt;涂鸦是我们的语言。&lt;br&gt;这是一款我一打开就爱不释手的应用，黑白配色，涂鸦风格，随性美好。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;起源&quot;&gt;起源&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou1.jpg&quot; alt=&quot;十万喵星人计划·from 涂手&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://www.toshow.com/activity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;涂手&lt;/a&gt;起源于Life-Fun灵泛工作室发起的“十万喵星人”涂鸦活动。活动于2014年10月15日发布，在两个多月内仅依靠参与者自传播的情况下，访问量超过400万次，共收集到来自世界各地的 “喵星人”画作近30万幅。&lt;br&gt;Life-Fun团队基于网络制造了一种没有门槛的社交语言模式，他们以社交网络平台作为载体，将手机屏幕变为画布，号召用户用手指随性涂鸦分享，用最朴实的线条描绘出他们心目中的 “喵星人”。&lt;/p&gt;
+&lt;h1 id=&quot;功能概览&quot;&gt;功能概览&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou2.jpg&quot; alt=&quot;功能概览&quot;&gt;&lt;br&gt;用户用指尖在手机屏幕上涂鸦，可以自由创作，亦可参加接涂活动，通过点赞、评论、关注完成涂鸦社交。&lt;/p&gt;
+&lt;h1 id=&quot;启动页面&quot;&gt;启动页面&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou3.jpg&quot; alt=&quot;启动页&quot;&gt;&lt;br&gt;从启动页开始就是我的菜(●’◡’●)就像slogan所说，“涂鸦是我们的语言”，它是一种国际语言。前几日发现一个很好玩的网站，&lt;a href=&quot;http://www.sketchswap.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;一画换一画&lt;/a&gt;，你完成一幅涂鸦提交，网站会返回给你一幅其他用户的涂鸦，这幅涂鸦可能来自世界各地，感兴趣的话可以试试，相信你会被某种小小的温暖感动。&lt;/p&gt;
+&lt;h1 id=&quot;注册页面&quot;&gt;注册页面&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou4.jpg&quot; alt=&quot;注册页面&quot;&gt;&lt;br&gt;看到注册页面上弯弯曲曲的手绘线条，我心里默默打100分，这就是这个产品的性格哇。&lt;/p&gt;
+&lt;h1 id=&quot;新手指引&quot;&gt;新手指引&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou5.jpg&quot; alt=&quot;新手指引&quot;&gt;&lt;br&gt;用简单的线条勾勒出幽默生动的新手指引画面，黑白灰，线条间，简单又美好。&lt;/p&gt;
+&lt;h1 id=&quot;交互细节&quot;&gt;交互细节&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou6.jpg&quot; alt=&quot;交互细节&quot;&gt;&lt;br&gt;还有一些交互细节值得一提。加载等待页面、下拉刷新、空值页风格统一、特点鲜明，不过话说第一次见到那根手指感觉挺诡异的( ▼-▼ )&lt;/p&gt;
+&lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou7.jpg&quot; alt=&quot;其他&quot;&gt;&lt;br&gt;其他值得一提的内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用户第一次创建画集起名时有很多备选项，方便用户选择&lt;/li&gt;
+&lt;li&gt;用户头像只能是自己的一幅涂鸦，保证头像和整个App风格同统一，避免混搭&lt;/li&gt;
+&lt;li&gt;可以参加接涂活动，即半命题创作，增强用户间互动感&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;彩蛋&quot;&gt;彩蛋&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou8.jpg&quot; alt=&quot;我的涂鸦&quot;&gt;&lt;br&gt;拙作四幅(●’◡’●)都是参加接涂活动画的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一幅我涂了三个字“面包师”&lt;/li&gt;
+&lt;li&gt;第二幅我画了个人脸&lt;/li&gt;
+&lt;li&gt;第三幅画了一个高跟鞋&lt;/li&gt;
+&lt;li&gt;第四幅画了一个大字“命”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;涂手上有很多大触，据说都是直接用手指作画的，那手指也太细了吧hhh (●’◡’●)&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou0.png&quot; alt=&quot;涂鸦社交·from 涂手&quot;&gt;&lt;/p&gt;
+&lt;p&gt;涂鸦是我们的语言。&lt;br&gt;这是一款我一打开就爱不释手的应用，黑白配色，涂鸦风格，随性美好。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
+    
+      <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>江南花事</title>
     <link href="http://aqiqi.me/2016/03/30/21.%E6%B1%9F%E5%8D%97%E8%8A%B1%E4%BA%8B/"/>
     <id>http://aqiqi.me/2016/03/30/21.江南花事/</id>
     <published>2016-03-30T08:20:30.000Z</published>
-    <updated>2016-03-30T10:12:43.577Z</updated>
+    <updated>2016-04-06T06:36:55.154Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi0.jpg&quot; alt=&quot;千岛湖&quot;&gt;&lt;br&gt;江南花事三月好，菜花明艳海棠娇。千岛湖水烟浩淼，徽州古城白墙高。&lt;br&gt;新安江上人谈笑，欢天喜地好热闹。最喜鱼汤味道妙，咕嘟咕嘟喝到饱。&lt;br&gt;                                        ———《阳春三月随蓝鲸户外江南行记》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;赋打油诗一首，见笑。&lt;br&gt;近来很喜欢这样的打油诗，很大程度上是受&lt;a href=&quot;http://weibo.com/u/1454064140?topnav=1&amp;amp;wvr=6&amp;amp;topsug=1&amp;amp;is_all=1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@老树画画&lt;/a&gt;的影响。我很喜欢老树在微博上的诗配画，待他新画一出，转发时忍不住也跟着赋诗一首。&lt;/p&gt;
 &lt;p&gt;这篇文章里的照片都是同行的喜欢摄影的朋友们拍摄的，看着这么美的照片，我把摄影也列进了我的技能清单。&lt;/p&gt;
-&lt;h1 id=&quot;行程&quot;&gt;行程&lt;/h1&gt;&lt;h2 id=&quot;Day_1_前往青阳&quot;&gt;Day 1  前往青阳&lt;/h2&gt;&lt;p&gt;周五晚上七点出发前往安徽&lt;strong&gt;青阳县&lt;/strong&gt;，约十一点半抵达东黄山国际青旅。六人间，住宿环境不错，独立卫浴，干净整洁。&lt;/p&gt;
+&lt;h1 id=&quot;行程&quot;&gt;行程&lt;/h1&gt;&lt;h2 id=&quot;Day_1_前往青阳&quot;&gt;Day 1  前往青阳&lt;/h2&gt;&lt;p&gt;周五晚上七点出发前往安徽青阳县，约十一点半抵达东黄山国际青旅。六人间，住宿环境不错，独立卫浴，干净整洁。&lt;/p&gt;
 &lt;h2 id=&quot;Day_2_柯村&amp;amp;南屏古镇&quot;&gt;Day 2  柯村&amp;amp;南屏古镇&lt;/h2&gt;&lt;p&gt;早晨七点半驱车前往黟[yī]县&lt;a href=&quot;http://baike.baidu.com/subview/2802584/15853075.htm#viewPageContent&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;柯村镇&lt;/a&gt;。我们在柯村茅山岭头最佳拍摄地驻足留影，欣赏皖南最美油菜花海。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi1.jpg&quot; alt=&quot;柯村·油菜花&quot;&gt;&lt;/p&gt;
-&lt;p&gt;午餐过后，驱车前往电影《菊豆》、《卧虎藏龙》的拍摄地黟县&lt;a href=&quot;http://baike.baidu.com/subview/1030574/10280891.htm?fromtitle=%E5%8D%97%E5%B1%8F&amp;amp;fromid=1438697&amp;amp;type=search&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;南屏村&lt;/a&gt;，行走在徽州古镇的高墙深巷中，感受古村落独有的生活气息。恰好有一群学生在写生，这种感觉看起来很棒。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi2.jpg&quot; alt=&quot;南屏古镇&quot;&gt;&lt;br&gt;下午五点参观完毕后前往安徽&lt;strong&gt;歙[shè]县深渡镇&lt;/strong&gt;住宿。&lt;/p&gt;
+&lt;p&gt;午餐过后，驱车前往电影《菊豆》、《卧虎藏龙》的拍摄地黟县&lt;a href=&quot;http://baike.baidu.com/subview/1030574/10280891.htm?fromtitle=%E5%8D%97%E5%B1%8F&amp;amp;fromid=1438697&amp;amp;type=search&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;南屏村&lt;/a&gt;，行走在徽州古镇的高墙深巷中，感受古村落独有的生活气息。恰好有一群学生在写生，这种感觉看起来很棒。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi2.jpg&quot; alt=&quot;南屏古镇&quot;&gt;&lt;br&gt;下午五点参观完毕后前往安徽歙[shè]县&lt;a href=&quot;http://baike.baidu.com/link?url=KDIk_00Zzxwz9YU9bFw_n9wNAGyuNu4sO3ZsUU5bY7eUEytIExxgRc9X6OzA4qacJQ4RbgSxzSkwgYLB8r0TOa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;深渡镇&lt;/a&gt;住宿。&lt;/p&gt;
 &lt;h2 id=&quot;Day_3_深渡码头到千岛湖&quot;&gt;Day 3  深渡码头到千岛湖&lt;/h2&gt;&lt;p&gt;行船约四小时，从深渡码头抵达浙江淳安县&lt;a href=&quot;http://baike.baidu.com/subview/2341/8042046.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千岛湖&lt;/a&gt;。新安江水烟波浩淼，驻足江畔，心骨皆清，胸怀宽广。我们在江边一块巨大的礁石上合影留念。&lt;br&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi3.jpg&quot; alt=&quot;新安江&amp;amp;千岛湖&quot;&gt;&lt;br&gt;淳安县的饭馆基本上都是吃鱼的地方，生活在这里的人很幸福吧。鱼头汤味道美极了，喝了好多碗。第一次吃醉虾，并不觉得好吃。如果虾稍微大一点的话，我肯定不敢吃。&lt;br&gt;约三点半准备返程，九点整到达学校。&lt;/p&gt;
 &lt;h1 id=&quot;一些心情&quot;&gt;一些心情&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;第一天晚上在路上和孜孜聊天许久，很享受那样的过程。她是我在大学里最好的朋友，蟹蟹一直以来的陪伴。&lt;/li&gt;
@@ -923,55 +971,6 @@
 &lt;h2 id=&quot;5-20校庆&quot;&gt;5.20校庆&lt;/h2&gt;&lt;p&gt;没有去年那么激动，也没有昨晚期待的那么特别，今天是极平常的一天。&lt;/p&gt;
 &lt;p&gt;早晨，翻出了2013.8.31号在南大门口拍的照片。那天，日光倾城，鲜艳的热气球依偎在蓝天白云的怀抱。照片上的姑娘齐刘海扎马尾，穿短袖衫背斜挎包。那是我吗？那是两年前的我。那是第一次走进大学的我。那是一无所知的我。&lt;/p&gt;
 &lt;p&gt;以前常想：于万千所大学中遇见属于自己的那一所需要多大的缘分。结局落定时才恍然大悟，缘分行事鬼祟，擅于轻轻浅浅悄悄地制造出阴差阳错。
-    
-    </summary>
-    
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="自我" scheme="http://aqiqi.me/tags/%E8%87%AA%E6%88%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>起来嗨和躺下睡</title>
-    <link href="http://aqiqi.me/2015/05/10/2.%E8%B5%B7%E6%9D%A5%E5%97%A8%E5%92%8C%E8%BA%BA%E4%B8%8B%E7%9D%A1/"/>
-    <id>http://aqiqi.me/2015/05/10/2.起来嗨和躺下睡/</id>
-    <published>2015-05-09T16:00:00.000Z</published>
-    <updated>2016-02-25T04:40:43.261Z</updated>
-    
-    <content type="html">&lt;h2 id=&quot;拉长时间&quot;&gt;拉长时间&lt;/h2&gt;&lt;p&gt;早起的感觉是极好的。推开门的瞬间，感觉全世界最清新澄静的空气被你吮吸着，全世界最柔和的阳光被你沐浴着。你恨不得想拼命地吸几口，想贪婪地收藏阳光。这种晨间沾着点露气的清明和沉寂是我喜欢的，这大概是我早起的全部动力。&lt;/p&gt;
-&lt;p&gt;当然，早起的美好并不仅限于此。就在今天，我发现它可以把时间拉长。早起的日子里，你在图书馆看完一本书，看一下时间，怎么才九点一刻，还有大把大把的时间等我光临，心里是出乎意料的惊喜和安心。&lt;/p&gt;
-&lt;p&gt;在这种惊喜和安心下，一天的节奏都由你掌控。晚上你踏着月光星光归来时，内心充实安适，没有自责，亦无躁动。这种美好无法言说，但内心自知。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;早起毁一天&quot;&gt;早起毁一天&lt;/h2&gt;&lt;p&gt;不是所有的早起都是美好的。&lt;/p&gt;
-&lt;p&gt;这种毁一天的事上周刚干过。宿舍四人决定第二天早起去食堂吃饭，起床时间定在6:30，做这个决定的时间是凌晨2:00。早上，在闹钟和她们的叫声里，心中的小白人勉强打过懒惰的小黑人。说着笑着吵着嚷着奔向食堂，迎接一顿期待了一宿的早餐。&lt;/p&gt;
-&lt;p&gt;吃东西的时候会犯困的人一定是从外星来的。所以我们吃饱了以后才会困。然后就有了一天之内在图书馆睡四觉每次起来看一眼这个朦胧的世界然后接着睡的事情发生。&lt;/p&gt;
-&lt;h2 id=&quot;鱼和熊掌&quot;&gt;鱼和熊掌&lt;/h2&gt;&lt;p&gt;早起和晚睡的辩证关系听得太多。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;早起不晚睡，晚睡不早起。&lt;/li&gt;
-&lt;li&gt;早上有恒心，晚上不贪心。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这就叫做“听过许多道理，依然过不好这一生。”&lt;/p&gt;
-&lt;p&gt;晚上&lt;strong&gt;睡你麻痹，起来嗨！&lt;/strong&gt;的结果只能是早上&lt;strong&gt;嗨你麻痹，躺下睡……&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2 id=&quot;嘿，睡觉吧！&quot;&gt;嘿，睡觉吧！&lt;/h2&gt;&lt;p&gt;刚看完晚睡的危害，触目惊心！发誓要早睡早起。&lt;/p&gt;
-&lt;p&gt;自从大一凌晨4:00发说说被母上大人评论后，每天的通话增加了一条固定内容————叮嘱我千万早睡。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美女是睡出来的。&lt;br&gt;睡觉可以减肥。&lt;br&gt;睡觉可以美容。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;以上言论均出自母上大人之口。&lt;/p&gt;
-&lt;p&gt;在上个月晚睡早起一周里，我的身体已经向我发起抗议，皮肤变差，心情烦躁，体重变化……听妈妈的话是绝对不会错的。&lt;/p&gt;
-&lt;p&gt;没有什么事重要到你可以不爱惜自己。&lt;/p&gt;
-&lt;p&gt;嘿，睡觉吧！地球照样会转的。&lt;/p&gt;
-&lt;p&gt;P.S.今天是母亲节，妈妈我一定听你话！&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;拉长时间&quot;&gt;拉长时间&lt;/h2&gt;&lt;p&gt;早起的感觉是极好的。推开门的瞬间，感觉全世界最清新澄静的空气被你吮吸着，全世界最柔和的阳光被你沐浴着。你恨不得想拼命地吸几口，想贪婪地收藏阳光。这种晨间沾着点露气的清明和沉寂是我喜欢的，这大概是我早起的全部动力。&lt;/p&gt;
-&lt;p&gt;当然，早起的美好并不仅限于此。就在今天，我发现它可以把时间拉长。早起的日子里，你在图书馆看完一本书，看一下时间，怎么才九点一刻，还有大把大把的时间等我光临，心里是出乎意料的惊喜和安心。&lt;/p&gt;
-&lt;p&gt;在这种惊喜和安心下，一天的节奏都由你掌控。晚上你踏着月光星光归来时，内心充实安适，没有自责，亦无躁动。这种美好无法言说，但内心自知。
     
     </summary>
     
