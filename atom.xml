@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aqiqi.me/"/>
-  <updated>2016-05-26T14:20:16.386Z</updated>
+  <updated>2016-05-31T02:43:24.252Z</updated>
   <id>http://aqiqi.me/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>五月植物记</title>
-    <link href="http://aqiqi.me/2016/05/25/24.%E4%BA%94%E6%9C%88%E6%A4%8D%E7%89%A9%E8%AE%B0/"/>
-    <id>http://aqiqi.me/2016/05/25/24.五月植物记/</id>
+    <link href="http://aqiqi.me/2016/05/25/25.%E4%BA%94%E6%9C%88%E6%A4%8D%E7%89%A9%E8%AE%B0/"/>
+    <id>http://aqiqi.me/2016/05/25/25.五月植物记/</id>
     <published>2016-05-25T15:28:30.000Z</published>
-    <updated>2016-05-26T14:20:16.386Z</updated>
+    <updated>2016-05-31T02:43:24.252Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/mayflower0.jpg&quot; alt=&quot;独根草·From 花瓣&quot;&gt;&lt;/p&gt;
 &lt;p&gt;上周六姐姐生日，我提着礼物坐上公交去她的学校。&lt;/p&gt;
@@ -57,7 +57,7 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://aqiqi.me/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -68,10 +68,10 @@
   
   <entry>
     <title>又一年</title>
-    <link href="http://aqiqi.me/2016/04/29/23.%E5%8F%88%E4%B8%80%E5%B9%B4/"/>
-    <id>http://aqiqi.me/2016/04/29/23.又一年/</id>
+    <link href="http://aqiqi.me/2016/04/29/24.%E5%8F%88%E4%B8%80%E5%B9%B4/"/>
+    <id>http://aqiqi.me/2016/04/29/24.又一年/</id>
     <published>2016-04-29T15:28:30.000Z</published>
-    <updated>2016-05-15T12:25:18.131Z</updated>
+    <updated>2016-05-31T02:43:12.280Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E7%AB%99%E5%9C%A8%E9%AB%98%E5%A4%84.jpg&quot; alt=&quot;擎天柱胯下逃命的人&quot;&gt;&lt;/p&gt;
 &lt;p&gt;又一年，时间之快不用刻意找词语形容，人皆有体会。心情不像去年此时，因为知道明天和今天没有大不同。&lt;br&gt;不过心里还是有小小的仪式感，怀着小小的开心回复每一条祝福的信息。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;因为实习所以一人在上海过21岁生日。没有告诉同事，也没有告诉合租的学姐。在网上看到环球金融中心观光层生日免票，下班后就坐地铁去了。&lt;/p&gt;
@@ -92,12 +92,58 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://aqiqi.me/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一场失败的面试</title>
+    <link href="http://aqiqi.me/2016/04/19/23.%E8%AE%B0%E4%B8%80%E5%9C%BA%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%9D%A2%E8%AF%95/"/>
+    <id>http://aqiqi.me/2016/04/19/23.记一场失败的面试/</id>
+    <published>2016-04-19T14:18:30.000Z</published>
+    <updated>2016-06-02T15:35:02.443Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E9%9D%A2%E8%AF%95.jpg&quot; alt=&quot;From 微博&quot;&gt;&lt;/p&gt;
+&lt;p&gt;南研所，面试。和面试官聊了50分钟，结束的时候面试官说“今天的面试就到这里，回去等HR通知，大概一到两天会有通知。”蓦地，又补了一句“也有可能没有通知，没有通知就是没有了。”所以说嘛我当时就知道结果了。&lt;/p&gt;
+&lt;p&gt;因为最开始通知的面试时间我不在南京不能到场，于是就有了这周一的单独面试。等面试官的时候碰到一个南航研究生学姐和我一样推迟了面试，专业对口，作品集厚厚的，有不少实习经历，长得很好看，一下子我对面试的美好憧憬就降了N个调。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;过了一会儿，一个其貌不扬的中年男子出现，先叫了我进去面试。&lt;br&gt;记录一下问题：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;bullet&quot;&gt;1. &lt;/span&gt;介绍一下你所学的信息管理与信息系统专业
+&lt;span class=&quot;bullet&quot;&gt;2. &lt;/span&gt;你是如何了解到交互设计并对它产生兴趣的
+&lt;span class=&quot;bullet&quot;&gt;3. &lt;/span&gt;画信息检索大赛网站的流程图
+&lt;span class=&quot;bullet&quot;&gt;4. &lt;/span&gt;信息检索大赛网站设计过程中有哪些你认为比较好的交互
+&lt;span class=&quot;bullet&quot;&gt;5. &lt;/span&gt;当工程师那边不愿完成交互效果时，你会怎么和他们沟通
+&lt;span class=&quot;bullet&quot;&gt;6. &lt;/span&gt;约吗App调研过程中发现了什么问题，并且是怎么解决的
+&lt;span class=&quot;bullet&quot;&gt;7. &lt;/span&gt;是否考虑过将约吗App加入教学模式的功能
+&lt;span class=&quot;bullet&quot;&gt;8. &lt;/span&gt;在目前实习的公司主要做什么，有何感受
+&lt;/code&gt;&lt;/pre&gt;&lt;/blockquote&gt;
+&lt;p&gt;现在还记得的问题主要是这些，中间还穿插着一些其他零碎的问题。他还问到我们班上其他同学都在做什么，我说有准备出国的、考研的、找咨询、金融、互联网等行业实习的。他建议我这个专业可以出国继续深造，ORZ我从来没有考虑过这个啊，然后我就老老实实说我还没有在毕业后继续深造的想法。他说我爱好还挺多，问我有没有跑上周的牛首山马拉松，我说没有。他说他看过我的博客，写的比较多的是自己的心情和感悟，我当时觉得啊真是的我的心情都被你看到了，我把博客写在简历上主要是让你看我最近写的几篇交互体验报告的哇，于是补充道还写了一些交互分析报告。然后面试官说嗯，交互的文章可以多写写，有助于学习和沉淀。&lt;/p&gt;
+&lt;p&gt;在上面主要的8个问题里，我没觉得有哪个回答比较好，“跌跌撞撞磕磕绊绊”吧。介绍信息管理与信息系统专业，ORZ我说我们专业会学计算机、管理和商学方面的知识，培养信息技术方面的人才，应用范围较广，balabalabala，其实我的内心是崩溃的。如何了解到交互设计并对它产生兴趣，我说是听了华为设计总监yoyo在学校的讲座，然后看了书和博客慢慢产生兴趣的。画网站流程图那个后来我才反应过来我画的是站点地图不是流程图。信息检索大赛设计中我们首要是保证了功能的实现哇，不过我在设计的时候有考虑到一些反馈和提示的友好亲切，我就如实回答了。最后关于实习的体会，我才去了一周，就讲了丢银行卡和复印被帮忙的事，觉得同事们都很友好，生活也没有去之前想象的那么难。可能我的回答听起来很幼稚吧，面试官笑了，然后就结束了。&lt;/p&gt;
+&lt;p&gt;走出来的时候，有些放松又有些紧张。当时的我告诉自己，没关系，已经把最真实的自己展示出来了。但是后来想想我的回答好像太老实了点。&lt;/p&gt;
+&lt;p&gt;走在南研所的四月天下，我抬头望天，心想：你就收下我吧！&lt;/p&gt;
+&lt;p&gt;说来也实在巧，中午在食堂吃饭，面试官后来恰好和我坐在了一个桌子上。小伙伴说有三个食堂能够碰到而且坐在一起真是缘分。他主动和我打招呼问我有没有去喂黑天鹅。就是那只硕大的站在路中间很丑的黑天鹅。&lt;/p&gt;
+&lt;p&gt;不过后来我什么通知也没有收到。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E9%9D%A2%E8%AF%95.jpg&quot; alt=&quot;From 微博&quot;&gt;&lt;/p&gt;
+&lt;p&gt;南研所，面试。和面试官聊了50分钟，结束的时候面试官说“今天的面试就到这里，回去等HR通知，大概一到两天会有通知。”蓦地，又补了一句“也有可能没有通知，没有通知就是没有了。”所以说嘛我当时就知道结果了。&lt;/p&gt;
+&lt;p&gt;因为最开始通知的面试时间我不在南京不能到场，于是就有了这周一的单独面试。等面试官的时候碰到一个南航研究生学姐和我一样推迟了面试，专业对口，作品集厚厚的，有不少实习经历，长得很好看，一下子我对面试的美好憧憬就降了N个调。
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
+    
+      <category term="面试" scheme="http://aqiqi.me/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
@@ -946,38 +992,6 @@
       <category term="大学" scheme="http://aqiqi.me/tags/%E5%A4%A7%E5%AD%A6/"/>
     
       <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>最美的风景</title>
-    <link href="http://aqiqi.me/2015/06/14/5.%E6%9C%80%E7%BE%8E%E7%9A%84%E9%A3%8E%E6%99%AF/"/>
-    <id>http://aqiqi.me/2015/06/14/5.最美的风景/</id>
-    <published>2015-06-14T09:25:00.000Z</published>
-    <updated>2016-02-25T04:41:21.123Z</updated>
-    
-    <content type="html">&lt;p&gt;看着在考场外等待的家长，我的回忆蔓延开来。&lt;/p&gt;
-&lt;h2 id=&quot;陪考&quot;&gt;陪考&lt;/h2&gt;&lt;p&gt;记得小升初考完最后一门从考场走出来，在校门口等我的妈妈上前来拉起我的手，我们就这样愉快地回家啦。记得龙岗招生考试大热天爸妈在教学楼警戒线的走廊里从早上等到下午。记得中考的雨天爸爸骑电瓶车来来回回接我好多趟。记得高考的时候学校备车一路警察叔叔护送老师一直在门口守候。&lt;/p&gt;
-&lt;p&gt;高考没有在家考，一直住在学校。至今记得每门考完从考场走出来时外面都有焦急等待的家长在呼唤在拍照。当时心想还好爸妈上班没有时间千里迢迢来陪考，一方面是那样太辛苦，另一方面就是那样看起来真的好sa。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;另一种滋味&quot;&gt;另一种滋味&lt;/h2&gt;&lt;p&gt;今天校园开放日，自招考试。看着考场外等待着的家长，我想，如果未来我还能亲历这样的情景，那也是我撑着阳伞站在警戒线外等着考场里走出来的人吧。再也不会在某次考试之后，被妈妈揽入怀抱，跳上爸爸的电瓶车，看见老师挥动的手。有的可能只是去年冬至那天考完某门专业课后独自走在飘雪的夜里的清寂。&lt;/p&gt;
-&lt;p&gt;所以今天，我看见教学楼前围成团的家长，看见坐在车里困乏的家长，看见树荫下攀谈的家长，竟是如此感动。&lt;/p&gt;
-&lt;h2 id=&quot;最美的风景&quot;&gt;最美的风景&lt;/h2&gt;&lt;p&gt;今天的我望着最美的风景，曾经的我就站在风景里。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;看着在考场外等待的家长，我的回忆蔓延开来。&lt;/p&gt;
-&lt;h2 id=&quot;陪考&quot;&gt;陪考&lt;/h2&gt;&lt;p&gt;记得小升初考完最后一门从考场走出来，在校门口等我的妈妈上前来拉起我的手，我们就这样愉快地回家啦。记得龙岗招生考试大热天爸妈在教学楼警戒线的走廊里从早上等到下午。记得中考的雨天爸爸骑电瓶车来来回回接我好多趟。记得高考的时候学校备车一路警察叔叔护送老师一直在门口守候。&lt;/p&gt;
-&lt;p&gt;高考没有在家考，一直住在学校。至今记得每门考完从考场走出来时外面都有焦急等待的家长在呼唤在拍照。当时心想还好爸妈上班没有时间千里迢迢来陪考，一方面是那样太辛苦，另一方面就是那样看起来真的好sa。
-    
-    </summary>
-    
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="回忆" scheme="http://aqiqi.me/tags/%E5%9B%9E%E5%BF%86/"/>
-    
-      <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
     
   </entry>
   
