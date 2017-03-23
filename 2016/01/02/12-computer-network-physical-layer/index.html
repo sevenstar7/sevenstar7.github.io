@@ -1,0 +1,613 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>《计算机网络》笔记——物理层 | 阿柒的岛屿</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    
+    <meta name="author" content="Qi Shuhan">
+    
+
+    
+    <meta name="description" content="编码【基本概念】数据：运送消息的实体。信号：数据的电气或电磁的表现。模拟的：代表消息的参数取值是连续的。数字的：代表消息的参数取值是离散的。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="《计算机网络》笔记——物理层">
+<meta property="og:url" content="http://aqiqi.me/2016/01/02/12-computer-network-physical-layer/index.html">
+<meta property="og:site_name" content="阿柒的岛屿">
+<meta property="og:description" content="编码【基本概念】数据：运送消息的实体。信号：数据的电气或电磁的表现。模拟的：代表消息的参数取值是连续的。数字的：代表消息的参数取值是离散的。">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="《计算机网络》笔记——物理层">
+<meta name="twitter:description" content="编码【基本概念】数据：运送消息的实体。信号：数据的电气或电磁的表现。模拟的：代表消息的参数取值是连续的。数字的：代表消息的参数取值是离散的。">
+
+    
+    <link rel="alternative" href="/atom.xml" title="阿柒的岛屿" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/jacman.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/jacman.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      
+<div>
+		
+			<div id="imglogo">
+				<a href="/"><img src="/img/logo.png" alt="阿柒的岛屿" title="阿柒的岛屿"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="阿柒的岛屿">阿柒的岛屿</a></h1>
+				<h2 class="blog-motto">每个人都是一座孤岛。那里有绿植、有花朵、有飞鸟。</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/">主页</a></li>
+					
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="/about">关于</a></li>
+					
+					<li>
+ 					
+						<form class="search" action="http://zhannei.baidu.com/cse/search" target="_blank">
+							<label>Search</label>
+						<input name="s" type="hidden" value= 7666505345366434000 ><input type="text" name="q" size="30" placeholder="搜索"><br>
+						</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+    </header>
+    <div id="container">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+  
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2016/01/02/12-computer-network-physical-layer/" title="《计算机网络》笔记——物理层" itemprop="url">《计算机网络》笔记——物理层</a>
+  </h1>
+  <p class="article-author">By
+       
+		<a href="/about" title="Qi Shuhan" target="_blank" itemprop="author">Qi Shuhan</a>
+		
+  <p class="article-time">
+    <time datetime="2016-01-02T13:01:30.000Z" itemprop="datePublished"> 发表于 2016-01-02</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+		
+			<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#编码"><span class="toc-number">1.</span> <span class="toc-text">编码</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【基本概念】"><span class="toc-number">1.1.</span> <span class="toc-text">【基本概念】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【数字数据的数字信号编码】"><span class="toc-number">1.2.</span> <span class="toc-text">【数字数据的数字信号编码】</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#不归零码"><span class="toc-number">1.2.1.</span> <span class="toc-text">不归零码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#曼彻斯特编码"><span class="toc-number">1.2.2.</span> <span class="toc-text">曼彻斯特编码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#差分曼彻斯特编码"><span class="toc-number">1.2.3.</span> <span class="toc-text">差分曼彻斯特编码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#4B/5B编码"><span class="toc-number">1.2.4.</span> <span class="toc-text">4B/5B编码</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【数字数据的模拟信号编码】"><span class="toc-number">1.3.</span> <span class="toc-text">【数字数据的模拟信号编码】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【模拟数据的数字信号编码】"><span class="toc-number">1.4.</span> <span class="toc-text">【模拟数据的数字信号编码】</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#PCM编码："><span class="toc-number">1.4.1.</span> <span class="toc-text">PCM编码：</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【模拟数据的模拟信号】"><span class="toc-number">1.5.</span> <span class="toc-text">【模拟数据的模拟信号】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#复用"><span class="toc-number">2.</span> <span class="toc-text">复用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【频分复用（FDM）】"><span class="toc-number">2.1.</span> <span class="toc-text">【频分复用（FDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【时分复用（TDM）】"><span class="toc-number">2.2.</span> <span class="toc-text">【时分复用（TDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【统计时分复用（STDM）】"><span class="toc-number">2.3.</span> <span class="toc-text">【统计时分复用（STDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【码分多址（CDMA）】"><span class="toc-number">2.4.</span> <span class="toc-text">【码分多址（CDMA）】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#交换"><span class="toc-number">3.</span> <span class="toc-text">交换</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【电路交换】"><span class="toc-number">3.1.</span> <span class="toc-text">【电路交换】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【报文交换】"><span class="toc-number">3.2.</span> <span class="toc-text">【报文交换】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【分组交换】"><span class="toc-number">3.3.</span> <span class="toc-text">【分组交换】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#基本定理"><span class="toc-number">4.</span> <span class="toc-text">基本定理</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【尼奎斯特定理】"><span class="toc-number">4.1.</span> <span class="toc-text">【尼奎斯特定理】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【香农定理】"><span class="toc-number">4.2.</span> <span class="toc-text">【香农定理】</span></a></li></ol></li></ol>
+		
+		</div>
+		
+		<h2 id="编码">编码</h2><h3 id="【基本概念】">【基本概念】</h3><p>数据：运送消息的实体。<br>信号：数据的电气或电磁的表现。<br>模拟的：代表消息的参数取值是连续的。<br>数字的：代表消息的参数取值是离散的。<br><a id="more"></a></p>
+<h3 id="【数字数据的数字信号编码】">【数字数据的数字信号编码】</h3><h4 id="不归零码">不归零码</h4><p>用低电平和高电平分别表示二进制信息“0”和“1”。<br>缺点：</p>
+<ul>
+<li>难分辨一位的结束与另一位的开始</li>
+<li>发送方和接收方必须时钟同步</li>
+<li>出现连续“0”或“1”，信号直流分量将累加，即易错误传播<!--more-->
+</li>
+</ul>
+<h4 id="曼彻斯特编码">曼彻斯特编码</h4><p>用电压的跳变表示“0”和“1”，在每个码元中间发生跳变。由高→低代表“1”，由低→高代表“0”。<br>自同步码，因为在每个码元中间发生跳变，接收端可将此变化提取出来作为同步信号。<br>缺点：需双倍传输带宽，即信号速率是数据速率的2倍</p>
+<h4 id="差分曼彻斯特编码">差分曼彻斯特编码</h4><p>看码元开始处有无跳变（看实线or虚线），有跳变代表“0”，无跳变代表“1”。<br>相比于曼彻斯特编码：变化要少，因此更适合与传输高速的信息，被广泛用于宽带高速网中<br>优点：时钟数据分离，便于提取</p>
+<h4 id="4B/5B编码">4B/5B编码</h4><p>将要发送的数据流每4bit作为一个组，用编码规则将其转换成相应的5bit码。</p>
+<h3 id="【数字数据的模拟信号编码】">【数字数据的模拟信号编码】</h3><p>幅移键控（ASK）、频移键控（FSK）、相移键控（PSK）。<br>用数字信号对载波的不同参量进行调制。</p>
+<h3 id="【模拟数据的数字信号编码】">【模拟数据的数字信号编码】</h3><h4 id="PCM编码：">PCM编码：</h4><ul>
+<li>采样：时间上连续的模拟信号转化为时间上离散的信号。每隔固定时间抽取模拟数据的瞬时值，且F（采）&gt;=2F（max）.</li>
+</ul>
+<p>奈奎斯特定理：</p>
+<blockquote>
+<p>如果连续变化的模拟信号最高频率为F，若以2F的采样频率对其采样，则采样得到的离散信号序列就能完整地恢复出原始信号。</p>
+</blockquote>
+<ul>
+<li>量化：幅度上连续的模拟信号转换成幅度上离散的脉冲信号。量化等级为2的整数n次幂。</li>
+<li>编码：时间离散且幅度离散的量化信号用一个二进制码组表示。二进制位数即为n</li>
+</ul>
+<h3 id="【模拟数据的模拟信号】">【模拟数据的模拟信号】</h3><p>调幅（AM）、调频（FM）、调相（PM）。</p>
+<h2 id="复用">复用</h2><h3 id="【频分复用（FDM）】">【频分复用（FDM）】</h3><p>整个传输频带被分成若干个频率通道，用户占用一个频率通道，频率通道之间留有防护带。所有用户在同样的时间占用不同的带宽资源。</p>
+<h3 id="【时分复用（TDM）】">【时分复用（TDM）】</h3><p>把时间分割成小的时间片，每个时间片分为若干个时隙，每个用户占用一个时隙。<br>缺点：某用户无数据发送，其他用户也不能占用该通道。</p>
+<h3 id="【统计时分复用（STDM）】">【统计时分复用（STDM）】</h3><p>用户不固定占用某个时隙，有空槽就将数据放入，需要在每一个时隙前寻址。</p>
+<blockquote>
+<p>比较TDM和STDM<br>用户多，用TDM，利用率高；用户少，用STDM,利用率高。</p>
+</blockquote>
+<h3 id="【码分多址（CDMA）】">【码分多址（CDMA）】</h3><p>必备条件：</p>
+<ul>
+<li>与扩频技术相结合，把一个窄带信号扩展到一个很宽的频带上，更能容忍干扰，允许来自不同用户的信号共享带宽</li>
+<li>足够多良好自正交、互相关的地址码</li>
+<li>信宿和信源相位完全同步</li>
+</ul>
+<p>原理：各发送端用各不相同、相互正交的地址码调制其要发送的信号。接收端利用码型的正交性，通过地址识别从混合信号中选出相应的信号。<br>1代表传送的“1”，-1代表传送的“0”，0代表没有传输。</p>
+<h2 id="交换">交换</h2><h3 id="【电路交换】">【电路交换】</h3><ul>
+<li>采用面向连接的方式，三个阶段：建立连接、通信、释放链接。</li>
+<li>应用：公众电话网、移动网（GSM和CDMA）</li>
+<li><p>优点：1.通信线路为通信双方专用，数据直达，传输时延非常少。2.通信双方之间的物理通路一旦建立，双方可随时通信，实时性强。3.双方按照顺序传送数据，不存在失序问题。4.既适用于数字信号，也适用于模拟信号。</p>
+</li>
+<li><p>缺点：1.对计算机通信（突发性、间歇式）而言，建立电路太耗时间。2.连接建立后，物理通道被双方独占，即使通信线路空闲， 也不能让其他用户使用，利用率低。3.数据直达，不用类型、规格的终端难以相互通信，也难进行差错控制。</p>
+</li>
+</ul>
+<h3 id="【报文交换】">【报文交换】</h3><ul>
+<li>通信双方借助一个或多个中间节点存储转发。</li>
+<li>优点：1.提供有效的通信管理。2.减轻网络通信的拥挤情况。3.（和电路交换相比）更加有效的利用信道资源，不同的报文可以分享同一公共线路。4.在不同时区里提供了异步通信功能。</li>
+<li>缺点：1.不能满足实时应用的需要。2.不适合交互式通信。3.投资大。4.如果一个线路故障，整个报文可能丢失。</li>
+</ul>
+<h3 id="【分组交换】">【分组交换】</h3><ul>
+<li>发送端把较长的报文划分为较短的、固定长度的数据段，每个数据段前面添加上首部（含地址等信息）构成分组。以分组为数据传输单元，依次把各分组传到接收端。</li>
+<li>优点：1.将数据分到不同的路由，对带宽资源有效利用。2.一条特定线路故障不会影响其他分组的传输。</li>
+<li>缺点：1.分组在各个节点存储转发时需要排队，造成一定时延。2.必须携带首部，造成一定开销浪费。3.包丢失导致报文丢失概率增大。</li>
+</ul>
+<h2 id="基本定理">基本定理</h2><h3 id="【尼奎斯特定理】">【尼奎斯特定理】</h3><p>任何信道，码元传输速率有上限，否则就会出现码间串扰。</p>
+<p>在假定理想条件下，为避免码间串扰，码元的传输速率的上限值=2Blog2V（比特/秒）B——带宽，V——离散等级</p>
+<h3 id="【香农定理】">【香农定理】</h3><p>带宽受限且有高斯白噪声干扰的信道的极限，无差错的信息传输速率C=Wlog2（1+S/N），W——带宽，S/N信噪比。</p>
+<p>理解:</p>
+<ul>
+<li>只要传输速率低于C，就可以找到某种方法实现无差错传输</li>
+<li>实际信道能达到的信息传输速率要比香农的极限速率少很多，因为除了这些因素，传输速率还受限于信道其他因素（各种脉冲干扰、传输过程的失真等）。</li>
+</ul>
+  
+	</div>
+		<footer class="article-footer clearfix">
+<div class="article-catetags">
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/categories/学习笔记/">学习笔记</a>
+</div>
+
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/学习/">学习</a><a href="/tags/计算机网络/">计算机网络</a>
+  </div>
+
+</div>
+
+
+
+	<div class="article-share" id="share">
+	
+	  <div data-url="http://aqiqi.me/2016/01/02/12-computer-network-physical-layer/" data-title="《计算机网络》笔记——物理层 | 阿柒的岛屿" data-tsina="6005734065" class="share clearfix">
+	  </div>
+	
+	</div>
+
+
+</footer>
+
+   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2016/01/03/13-computer-network-data-link-layer/" title="《计算机网络》笔记——数据链路层">
+  <strong>上一篇：</strong><br/>
+  <span>
+  《计算机网络》笔记——数据链路层</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2015/12/31/11-favourite-2015/"  title="My 2015">
+ <strong>下一篇：</strong><br/> 
+ <span>My 2015
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+<section id="comments" class="comment">
+	<div class="ds-thread" data-thread-key="2016/01/02/12-computer-network-physical-layer/" data-title="《计算机网络》笔记——物理层" data-url="http://aqiqi.me/2016/01/02/12-computer-network-physical-layer/"></div>
+</section>
+
+
+</div>  
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">文章目录</strong>
+ 
+ <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#编码"><span class="toc-number">1.</span> <span class="toc-text">编码</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【基本概念】"><span class="toc-number">1.1.</span> <span class="toc-text">【基本概念】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【数字数据的数字信号编码】"><span class="toc-number">1.2.</span> <span class="toc-text">【数字数据的数字信号编码】</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#不归零码"><span class="toc-number">1.2.1.</span> <span class="toc-text">不归零码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#曼彻斯特编码"><span class="toc-number">1.2.2.</span> <span class="toc-text">曼彻斯特编码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#差分曼彻斯特编码"><span class="toc-number">1.2.3.</span> <span class="toc-text">差分曼彻斯特编码</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#4B/5B编码"><span class="toc-number">1.2.4.</span> <span class="toc-text">4B/5B编码</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【数字数据的模拟信号编码】"><span class="toc-number">1.3.</span> <span class="toc-text">【数字数据的模拟信号编码】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【模拟数据的数字信号编码】"><span class="toc-number">1.4.</span> <span class="toc-text">【模拟数据的数字信号编码】</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#PCM编码："><span class="toc-number">1.4.1.</span> <span class="toc-text">PCM编码：</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【模拟数据的模拟信号】"><span class="toc-number">1.5.</span> <span class="toc-text">【模拟数据的模拟信号】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#复用"><span class="toc-number">2.</span> <span class="toc-text">复用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【频分复用（FDM）】"><span class="toc-number">2.1.</span> <span class="toc-text">【频分复用（FDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【时分复用（TDM）】"><span class="toc-number">2.2.</span> <span class="toc-text">【时分复用（TDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【统计时分复用（STDM）】"><span class="toc-number">2.3.</span> <span class="toc-text">【统计时分复用（STDM）】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【码分多址（CDMA）】"><span class="toc-number">2.4.</span> <span class="toc-text">【码分多址（CDMA）】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#交换"><span class="toc-number">3.</span> <span class="toc-text">交换</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【电路交换】"><span class="toc-number">3.1.</span> <span class="toc-text">【电路交换】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【报文交换】"><span class="toc-number">3.2.</span> <span class="toc-text">【报文交换】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【分组交换】"><span class="toc-number">3.3.</span> <span class="toc-text">【分组交换】</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#基本定理"><span class="toc-number">4.</span> <span class="toc-text">基本定理</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#【尼奎斯特定理】"><span class="toc-number">4.1.</span> <span class="toc-text">【尼奎斯特定理】</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【香农定理】"><span class="toc-number">4.2.</span> <span class="toc-text">【香农定理】</span></a></li></ol></li></ol>
+ 
+  </div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+		  
+			<li><a href="/categories/交互设计/" title="交互设计">交互设计<sup>4</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/前端故事/" title="前端故事">前端故事<sup>1</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/学习笔记/" title="学习笔记">学习笔记<sup>2</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/生活随笔/" title="生活随笔">生活随笔<sup>23</sup></a></li>
+		  
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			
+				<li><a href="/tags/生活/" title="生活">生活<sup>8</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/成长/" title="成长">成长<sup>6</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/感悟/" title="感悟">感悟<sup>5</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/自我/" title="自我">自我<sup>4</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/交互设计/" title="交互设计">交互设计<sup>4</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/App/" title="App">App<sup>4</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/人生/" title="人生">人生<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/计算机网络/" title="计算机网络">计算机网络<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/回忆/" title="回忆">回忆<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/学习/" title="学习">学习<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/实习/" title="实习">实习<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/梦想/" title="梦想">梦想<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/杂思/" title="杂思">杂思<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/经历/" title="经历">经历<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/总结/" title="总结">总结<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/家/" title="家">家<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/PS/" title="PS">PS<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/离别/" title="离别">离别<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/美/" title="美">美<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/面试/" title="面试">面试<sup>1</sup></a></li>
+			
+		
+		</ul>
+</div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+        
+          <li>
+            
+            	<a href="http://wuchong.me" target="_blank" title="Jark&#39;s Blog">Jark&#39;s Blog</a>
+            
+          </li>
+        
+    </ul>
+</div>
+
+  
+
+<div class="doubanshow">
+<p class="asidetitle">豆瓣秀</p>
+<div>
+<script type="text/javascript" src="http://www.douban.com/service/badge/78624465/?show=collection&amp;n=12&amp;columns=3&amp;hidelogo=yes&amp;hideself=yes&amp;cat=book|movie" ></script>
+</div>
+</div>
+
+
+  <div class="weiboshow">
+  <p class="asidetitle">新浪微博</p>
+    <iframe width="100%" height="119" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=119&fansRow=2&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=0&isFans=0&uid=6005734065&verifier=14b907b5&dpc=1"></iframe>
+</div>
+
+
+  <div class="rsspart">
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hi , I&#39;m QiShuhan . <br/>
+			I&#39;ll share my story , thought and something memorable on this island .</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/6005734065" target="_blank" class="icon-weibo" title="微博"></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="https://www.douban.com/people/78624465" target="_blank" class="icon-douban" title="豆瓣"></a>
+		
+		
+		<a href="https://www.zhihu.com/people/aqiqi" target="_blank" class="icon-zhihu" title="知乎"></a>
+		
+		
+		
+		<a href="mailto:sevenstar_7@163.com" target="_blank" class="icon-email" title="Email Me"></a>
+		
+	</div>
+			
+		
+
+		<p class="copyright">
+		Powered by <a href="http://hexo.io" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/wuchong/jacman" target="_blank" title="Jacman">Jacman</a> © 2017 
+		
+		<a href="/about" target="_blank" title="Qi Shuhan">Qi Shuhan</a>
+		
+		
+		</p>
+</div>
+</footer>
+    <script src="/js/jquery-2.0.3.min.js"></script>
+<script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+  
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else{
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  c.click(function(){
+    ta.css('display', 'block').addClass('fadeIn');
+  });
+  o.click(function(){
+    ta.css('display', 'none');
+  });
+  $(window).scroll(function(){
+    ta.css("top",Math.max(140,320-$(this).scrollTop()));
+  });
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina'),
+      description = $this.attr('description');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#nothing"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="微信"></a>',
+  '<a href="http://widget.renren.com/dialog/share?resourceUrl=' + encodedUrl + '&srcUrl=' + encodedUrl + '&title=' + title +'" class="article-share-renren" target="_blank" title="人人"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="微博"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"aqiqi"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+
+<!-- Analytics Begin -->
+
+
+
+
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258867964'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s23.cnzz.com/z_stat.php%3Fid%3D1258867964' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<!-- Analytics End -->
+
+<!-- Totop Begin -->
+
+	<div id="totop">
+	<a title="返回顶部"><img src="/img/scrollup.png"/></a>
+	</div>
+	<script src="/js/totop.js"></script>
+
+<!-- Totop End -->
+
+<!-- MathJax Begin -->
+<!-- mathjax config similar to math.stackexchange -->
+
+
+<!-- MathJax End -->
+
+<!-- Tiny_search Begin -->
+
+<!-- Tiny_search End -->
+
+  </body>
+</html>
