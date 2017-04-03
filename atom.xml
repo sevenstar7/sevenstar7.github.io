@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>阿柒的岛屿</title>
+  <title>星星七★</title>
   <subtitle>每个人都是一座孤岛。那里有绿植、有花朵、有飞鸟。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aqiqi.me/"/>
-  <updated>2017-04-03T07:33:44.803Z</updated>
+  <updated>2017-04-03T08:41:35.062Z</updated>
   <id>http://aqiqi.me/</id>
   
   <author>
-    <name>Qi Shuhan</name>
+    <name>Qista</name>
     
   </author>
   
@@ -20,7 +20,7 @@
     <link href="http://aqiqi.me/2017/04/03/32-sunning/"/>
     <id>http://aqiqi.me/2017/04/03/32-sunning/</id>
     <published>2017-04-03T05:31:30.000Z</published>
-    <updated>2017-04-03T07:33:44.803Z</updated>
+    <updated>2017-04-03T08:41:35.062Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/sunning.jpg&quot; alt=&quot;From:花瓣&quot;&gt;&lt;/p&gt;
 &lt;p&gt;晒被子，晒自己。&lt;br&gt;管它是阳光的味道还是烤螨虫的味道！&lt;/p&gt;
@@ -40,7 +40,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="心情" scheme="http://aqiqi.me/tags/%E5%BF%83%E6%83%85/"/>
@@ -54,7 +54,7 @@
     <link href="http://aqiqi.me/2017/03/29/31-sad-and-sad/"/>
     <id>http://aqiqi.me/2017/03/29/31-sad-and-sad/</id>
     <published>2017-03-29T10:26:30.000Z</published>
-    <updated>2017-03-29T12:42:45.443Z</updated>
+    <updated>2017-04-03T09:37:29.818Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/lovely.jpg&quot; alt=&quot;From:你今天真好看&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -81,7 +81,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="人生" scheme="http://aqiqi.me/tags/%E4%BA%BA%E7%94%9F/"/>
@@ -95,7 +95,7 @@
     <link href="http://aqiqi.me/2017/03/23/30-thoughts-in-restroom/"/>
     <id>http://aqiqi.me/2017/03/23/30-thoughts-in-restroom/</id>
     <published>2017-03-23T10:32:30.000Z</published>
-    <updated>2017-03-23T14:59:28.259Z</updated>
+    <updated>2017-04-03T09:37:20.651Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%BB%98%E7%94%BB.jpg&quot; alt=&quot;From:Rafal Olbinski&quot;&gt;&lt;br&gt;敲了“厕所杂思”四个字，后觉不文雅，改之。第一次发现中英混搭的好处。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -120,7 +120,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="人生" scheme="http://aqiqi.me/tags/%E4%BA%BA%E7%94%9F/"/>
@@ -134,7 +134,7 @@
     <link href="http://aqiqi.me/2017/03/18/29-my-2016/"/>
     <id>http://aqiqi.me/2017/03/18/29-my-2016/</id>
     <published>2017-03-18T12:25:30.000Z</published>
-    <updated>2017-03-18T14:27:32.222Z</updated>
+    <updated>2017-04-03T10:09:25.473Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E8%94%B7%E8%96%87%E8%8A%B1.jpg&quot; alt=&quot;2016年五月的蔷薇花&quot;&gt;&lt;br&gt;迟到的年度小结，致我厚重的2016。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;还是想把2016整理一遍，尽管它时而让我感到痛苦。&lt;/p&gt;
 &lt;h2 id=&quot;2016之最&quot;&gt;2016之最&lt;/h2&gt;&lt;h3 id=&quot;逃课最多&quot;&gt;逃课最多&lt;/h3&gt;&lt;p&gt;大三下，我逃课最多的一学期，这不是件什么光荣的事。如果是在以前，哪怕再无聊的课，我也不会逃，可这学期我变了。数据挖掘和计算机系统软件（大概叫这个名字我想不起来了）两门课，完全是理论加老师朗读PPT伴奏，坐在教室里我一般也是看手机或看杂书。上了几节课后发现连老师的声音都受不了了，听起来难受，想捂住耳朵，索性就不去了。&lt;/p&gt;
@@ -168,7 +168,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="又是一年" scheme="http://aqiqi.me/categories/%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/"/>
     
     
       <category term="总结" scheme="http://aqiqi.me/tags/%E6%80%BB%E7%BB%93/"/>
@@ -182,7 +182,7 @@
     <link href="http://aqiqi.me/2017/03/16/28-the-last-two-weeks/"/>
     <id>http://aqiqi.me/2017/03/16/28-the-last-two-weeks/</id>
     <published>2017-03-16T12:54:30.000Z</published>
-    <updated>2017-03-16T13:16:57.123Z</updated>
+    <updated>2017-04-03T09:36:46.807Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E6%9E%81%E7%AE%80.jpg&quot; alt=&quot;From 花瓣&quot;&gt;&lt;br&gt;回学校两周多了，一事无成。&lt;br&gt;不要悲伤，不要忧郁。&lt;br&gt;活了二十几年了，不还是一事无成吗。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;想一下过去两周：没看书、没干正事、偶尔运动、逛街一次。胃口大好、吃饭极香、总是幻想。心情好，像这样无所事事的时间总能给人带来好心情。&lt;/p&gt;
@@ -200,12 +200,10 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="人生" scheme="http://aqiqi.me/tags/%E4%BA%BA%E7%94%9F/"/>
-    
-      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
@@ -214,7 +212,7 @@
     <link href="http://aqiqi.me/2017/03/05/27-fragment2/"/>
     <id>http://aqiqi.me/2017/03/05/27-fragment2/</id>
     <published>2017-03-05T07:47:30.000Z</published>
-    <updated>2017-03-05T10:44:02.429Z</updated>
+    <updated>2017-04-03T09:36:34.371Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/duanzhang1.jpg&quot; alt=&quot;From 花瓣&quot;&gt;&lt;br&gt;2016/07到2016/12的半年，就像人生的断章。&lt;br&gt;没有写博客。微博删的一干二净。日记断断续续，内容也极为单一。&lt;br&gt;还好记忆里尚存着关于这段时光的快乐和痛苦，否则我会以为自己不曾活过。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;无心学习，看书就困，刚刚睡醒。&lt;br&gt;索性翻开相册，回顾这悲喜交加的半年。&lt;/p&gt;
@@ -245,10 +243,8 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
-    
-      <category term="家" scheme="http://aqiqi.me/tags/%E5%AE%B6/"/>
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
     
@@ -261,7 +257,7 @@
     <link href="http://aqiqi.me/2016/06/26/26-internship/"/>
     <id>http://aqiqi.me/2016/06/26/26-internship/</id>
     <published>2016-06-26T08:59:30.000Z</published>
-    <updated>2016-06-26T09:25:52.655Z</updated>
+    <updated>2017-04-03T09:36:17.067Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E5%AE%9E%E4%B9%A0%E8%AE%B0.jpg&quot; alt=&quot;From 花瓣&quot;&gt;&lt;br&gt;搜索关键词“告别”，看到这幅图。&lt;br&gt;像我的心情。&lt;br&gt;这是一篇很长的文章。&lt;br&gt;2016.6.23下午开始写。2016.6.26考完试后接着写完了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我卸载了电脑上自己下载的软件，整理好了这段时间生产的所有文档，等待下班的钟表总是走得很慢，不舍的情绪也总是在最后关头出现。 现在手头无事，是该好好为这将近三个月的时间打一个好看的蝴蝶结了。&lt;/p&gt;
@@ -304,12 +300,10 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="实习" scheme="http://aqiqi.me/tags/%E5%AE%9E%E4%B9%A0/"/>
-    
-      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
     
@@ -322,7 +316,7 @@
     <link href="http://aqiqi.me/2016/05/25/25-plants-in-may/"/>
     <id>http://aqiqi.me/2016/05/25/25-plants-in-may/</id>
     <published>2016-05-25T15:28:30.000Z</published>
-    <updated>2016-05-31T02:43:24.252Z</updated>
+    <updated>2017-04-03T09:36:04.522Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/mayflower0.jpg&quot; alt=&quot;独根草·From 花瓣&quot;&gt;&lt;/p&gt;
 &lt;p&gt;上周六姐姐生日，我提着礼物坐上公交去她的学校。&lt;/p&gt;
@@ -359,12 +353,12 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
+    
+      <category term="植物" scheme="http://aqiqi.me/tags/%E6%A4%8D%E7%89%A9/"/>
     
       <category term="生活" scheme="http://aqiqi.me/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="美" scheme="http://aqiqi.me/tags/%E7%BE%8E/"/>
     
   </entry>
   
@@ -373,7 +367,7 @@
     <link href="http://aqiqi.me/2016/04/29/24-another-year/"/>
     <id>http://aqiqi.me/2016/04/29/24-another-year/</id>
     <published>2016-04-29T15:28:30.000Z</published>
-    <updated>2016-06-26T08:47:38.154Z</updated>
+    <updated>2017-04-03T09:35:51.302Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E7%AB%99%E5%9C%A8%E9%AB%98%E5%A4%84.jpg&quot; alt=&quot;擎天柱胯下逃命的人&quot;&gt;&lt;/p&gt;
 &lt;p&gt;又一年，时间之快不用刻意找词语形容，人皆有体会。心情不像去年此时，因为知道明天和今天没有大不同。&lt;br&gt;不过心里还是有小小的仪式感，怀着小小的开心回复每一条祝福的信息。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;因为实习所以一人在上海过21岁生日。没有告诉同事，也没有告诉合租的学姐。在网上看到环球金融中心观光层生日免票，下班后就坐地铁去了。&lt;/p&gt;
@@ -394,10 +388,8 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
-    
-      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
     
@@ -408,7 +400,7 @@
     <link href="http://aqiqi.me/2016/04/19/23-failure-interview/"/>
     <id>http://aqiqi.me/2016/04/19/23-failure-interview/</id>
     <published>2016-04-19T14:18:30.000Z</published>
-    <updated>2016-06-26T09:28:01.419Z</updated>
+    <updated>2017-04-03T09:35:38.457Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E9%9D%A2%E8%AF%95%E5%95%8A.jpg&quot; alt=&quot;From QQ Family&quot;&gt;&lt;/p&gt;
 &lt;p&gt;南研所，面试。和面试官聊了50分钟，结束的时候面试官说“今天的面试就到这里，回去等HR通知，大概一到两天会有通知。”蓦地，又补了一句“也有可能没有通知，没有通知就是没有了。”所以说嘛我当时就知道结果了。&lt;/p&gt;
@@ -440,10 +432,8 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
-    
-      <category term="感悟" scheme="http://aqiqi.me/tags/%E6%84%9F%E6%82%9F/"/>
     
       <category term="面试" scheme="http://aqiqi.me/tags/%E9%9D%A2%E8%AF%95/"/>
     
@@ -454,7 +444,7 @@
     <link href="http://aqiqi.me/2016/04/06/22-interacter-experience-tushow/"/>
     <id>http://aqiqi.me/2016/04/06/22-interacter-experience-tushow/</id>
     <published>2016-04-06T06:28:30.000Z</published>
-    <updated>2016-04-06T07:22:02.152Z</updated>
+    <updated>2017-04-03T10:12:50.193Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/tushou0.png&quot; alt=&quot;涂鸦社交·from 涂手&quot;&gt;&lt;/p&gt;
 &lt;p&gt;涂鸦是我们的语言。&lt;br&gt;这是一款我一打开就爱不释手的应用，黑白配色，涂鸦风格，随性美好。&lt;/p&gt;
@@ -488,10 +478,8 @@
     
     </summary>
     
-      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
-    
-      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
     
       <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
@@ -502,7 +490,7 @@
     <link href="http://aqiqi.me/2016/03/30/21-flower-Jiangnan/"/>
     <id>http://aqiqi.me/2016/03/30/21-flower-Jiangnan/</id>
     <published>2016-03-30T08:20:30.000Z</published>
-    <updated>2016-04-06T06:36:55.154Z</updated>
+    <updated>2017-04-03T09:35:12.569Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/jiangnanhuashi0.jpg&quot; alt=&quot;千岛湖&quot;&gt;&lt;br&gt;江南花事三月好，菜花明艳海棠娇。千岛湖水烟浩淼，徽州古城白墙高。&lt;br&gt;新安江上人谈笑，欢天喜地好热闹。最喜鱼汤味道妙，咕嘟咕嘟喝到饱。&lt;br&gt;                                        ———《阳春三月随蓝鲸户外江南行记》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;赋打油诗一首，见笑。&lt;br&gt;近来很喜欢这样的打油诗，很大程度上是受&lt;a href=&quot;http://weibo.com/u/1454064140?topnav=1&amp;amp;wvr=6&amp;amp;topsug=1&amp;amp;is_all=1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@老树画画&lt;/a&gt;的影响。我很喜欢老树在微博上的诗配画，待他新画一出，转发时忍不住也跟着赋诗一首。&lt;/p&gt;
 &lt;p&gt;这篇文章里的照片都是同行的喜欢摄影的朋友们拍摄的，看着这么美的照片，我把摄影也列进了我的技能清单。&lt;/p&gt;
@@ -524,10 +512,8 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="行走之间" scheme="http://aqiqi.me/categories/%E8%A1%8C%E8%B5%B0%E4%B9%8B%E9%97%B4/"/>
     
-    
-      <category term="江南" scheme="http://aqiqi.me/tags/%E6%B1%9F%E5%8D%97/"/>
     
       <category term="游记" scheme="http://aqiqi.me/tags/%E6%B8%B8%E8%AE%B0/"/>
     
@@ -538,7 +524,7 @@
     <link href="http://aqiqi.me/2016/03/16/20-IFE-crops-peter-pan/"/>
     <id>http://aqiqi.me/2016/03/16/20-IFE-crops-peter-pan/</id>
     <published>2016-03-16T11:41:30.000Z</published>
-    <updated>2016-03-16T11:57:16.613Z</updated>
+    <updated>2017-04-03T10:12:34.928Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/ifehome.png&quot; alt=&quot;Just for fun&quot;&gt;&lt;br&gt;报名参加了&lt;a href=&quot;http://ife.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度前端技术学院&lt;/a&gt;，五个互不相识的小伙伴组成了IFE小飞侠战队。&lt;br&gt;欢迎访问&lt;a href=&quot;http://www.flypie.cn/ife/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我们的主页&lt;/a&gt;(●’◡’●)&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;自从上学期完成了90年代风格的圣诞节小网站后好像就没碰过前端了。&lt;br&gt;其实上一次IFE开班的时候就很想参加，不过很可惜我知道的时候报名已经结束了，加上又是高级班，所以只好在心中默默期待着下一期。&lt;/p&gt;
@@ -556,10 +542,10 @@
     
     </summary>
     
-      <category term="前端故事" scheme="http://aqiqi.me/categories/%E5%89%8D%E7%AB%AF%E6%95%85%E4%BA%8B/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
     
-      <category term="前端" scheme="http://aqiqi.me/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="学习" scheme="http://aqiqi.me/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -568,7 +554,7 @@
     <link href="http://aqiqi.me/2016/03/09/19-twittering-in-spring/"/>
     <id>http://aqiqi.me/2016/03/09/19-twittering-in-spring/</id>
     <published>2016-03-09T13:01:30.000Z</published>
-    <updated>2016-03-09T11:37:49.805Z</updated>
+    <updated>2017-04-03T09:34:11.630Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/little%20forest.jpg&quot; alt=&quot;From Little Forest&quot;&gt;&lt;br&gt;我最近很喜欢刘若英的《春光》。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -615,7 +601,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
@@ -627,7 +613,7 @@
     <link href="http://aqiqi.me/2016/03/09/18-interactive-experience-guechi/"/>
     <id>http://aqiqi.me/2016/03/09/18-interactive-experience-guechi/</id>
     <published>2016-03-09T06:23:30.000Z</published>
-    <updated>2016-03-09T07:03:45.963Z</updated>
+    <updated>2017-04-03T10:12:24.116Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/gezhic0.jpg&quot; alt=&quot;时尚·from 格知&quot;&gt;&lt;br&gt;打开格知GUECHI，时尚感扑面而来。无论是基本元素的黑白配色、高清大图还是夺目的半透明色块，都散发着满满的时尚感。她就像是一本随身携带的书，茶余饭后亦或片刻休闲，轻触、翻页、浏览，给人杂志般的阅读体验。&lt;/p&gt;
 &lt;p&gt;下面就让我们一起感受格知GUECHI的时尚哲学。&lt;/p&gt;
@@ -652,10 +638,8 @@
     
     </summary>
     
-      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
-    
-      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
     
       <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
@@ -666,7 +650,7 @@
     <link href="http://aqiqi.me/2016/03/06/17-interactive-experience-fotor/"/>
     <id>http://aqiqi.me/2016/03/06/17-interactive-experience-fotor/</id>
     <published>2016-03-06T05:55:30.000Z</published>
-    <updated>2016-03-06T06:29:41.363Z</updated>
+    <updated>2017-04-03T10:12:13.319Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/fotor0.png&quot; alt=&quot;光影·from Fotor&quot;&gt;&lt;br&gt;这真是一款让人出乎意料爱不释手的轻量级修图App。功能全而精，风格简约时尚。弱化产品本身，默默为用户打造流畅和简洁的体验。她就像一个静静陪你走过春夏秋冬的人，不多言，却贴心。&lt;/p&gt;
 &lt;p&gt;下面就让我们一起体验fotor令人怦然心动的交互细节吧。&lt;/p&gt;
@@ -703,10 +687,8 @@
     
     </summary>
     
-      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
-    
-      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
     
       <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
@@ -717,7 +699,7 @@
     <link href="http://aqiqi.me/2016/03/04/16-interactive-experience-manual/"/>
     <id>http://aqiqi.me/2016/03/04/16-interactive-experience-manual/</id>
     <published>2016-03-04T09:32:30.000Z</published>
-    <updated>2016-03-04T12:43:31.866Z</updated>
+    <updated>2017-04-03T10:12:03.292Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/shougongke00.jpg&quot; alt=&quot;花器·from手工客&quot;&gt;&lt;br&gt;最近在手工客App上买了材料包，准备开始结绳和篆刻(●’◡’●)有时候觉得自己特像古代人，喜欢写信、喜欢传统的美食、喜欢书画、喜欢传统的工艺……若真能回到古代，那该多好哇~&lt;br&gt;好像跑题了，那就扯回来————手工客！很显然是小众App，在这个圈子里发现很多手工达人，真心很佩服。&lt;/p&gt;
 &lt;p&gt;交互学习ing，把使用体验和思考记录下来，欢迎大家交流讨论。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -763,10 +745,8 @@
     
     </summary>
     
-      <category term="交互设计" scheme="http://aqiqi.me/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
-    
-      <category term="App" scheme="http://aqiqi.me/tags/App/"/>
     
       <category term="交互设计" scheme="http://aqiqi.me/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
@@ -777,7 +757,7 @@
     <link href="http://aqiqi.me/2016/01/23/15-hand-drawings-in-winter/"/>
     <id>http://aqiqi.me/2016/01/23/15-hand-drawings-in-winter/</id>
     <published>2016-01-23T13:11:30.000Z</published>
-    <updated>2016-02-26T10:21:36.324Z</updated>
+    <updated>2017-04-03T09:33:22.667Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/shouhui11.jpg&quot; alt=&quot;老师哒作品&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;写在后面(●’◡’●)&quot;&gt;写在后面(●’◡’●)&lt;/h2&gt;&lt;p&gt;之所以学手绘原因有二，一是这学期突然冒出考研的想法（不过已经被我扼杀在了摇篮里）；二是画画本身就是我所喜爱的，任何时候开始自己的兴趣爱好都不晚。所以我就在南京阴冷凛冽的冬天多呆了二十几天，差一点大年三十晚上还在火车上（不过后来很幸运没有）。&lt;/p&gt;
@@ -793,7 +773,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="手绘" scheme="http://aqiqi.me/tags/%E6%89%8B%E7%BB%98/"/>
@@ -805,7 +785,7 @@
     <link href="http://aqiqi.me/2016/01/13/14-the-sun-in-my-heart/"/>
     <id>http://aqiqi.me/2016/01/13/14-the-sun-in-my-heart/</id>
     <published>2016-01-13T15:01:30.000Z</published>
-    <updated>2016-02-25T04:40:33.803Z</updated>
+    <updated>2017-04-03T09:33:12.589Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xlbv1.com1.z0.glb.clouddn.com/%E5%A4%AA%E9%98%B3%20.jpg&quot; alt=&quot;太阳女孩·from花瓣&quot;&gt;&lt;br&gt;原本是想检查一下复习有什么疏漏，打开Notepad++按照理解和记忆梳理了一下计算机网络庞杂的知识点，写完发现这不就是一篇博文吗？恰好给我不学无术的博客增加一点点学术气氛，hhh……&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;当然，《计算机网络》是我很喜欢的一门课（=_=不是因为课程本身），因为颖哥讲课十分有水平，逻辑清晰，表达清楚，善用打比方、举例子、讲故事的方式把抽象的计算机理论讲得生动有趣。每次坐在前排看他循循善诱、娓娓道来的时候，我都觉得眼前的这个个子不高头发微白的中年男人背后闪烁着光芒。&lt;/p&gt;
 &lt;p&gt;他应该是我大学期间见到的对学生要求最严格的老师之二了。我很感谢他。如果批评和表扬只能选一个听的话，我一定会选批评。大二上学期他教我们C++，要求严格，语言犀利。也就是从那时起，我觉得我的大学不应该浑浑噩噩地度过，不应该丢掉曾经的努力。这种努力不是为了分数和GPA，而是为了学习的精神、毅力和无愧的心。所以每次上颖哥的课我都有一种高中物理课上像打了鸡血一样的感觉。&lt;/p&gt;
@@ -820,12 +800,10 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://aqiqi.me/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="心情碎片" scheme="http://aqiqi.me/categories/%E5%BF%83%E6%83%85%E7%A2%8E%E7%89%87/"/>
     
     
       <category term="成长" scheme="http://aqiqi.me/tags/%E6%88%90%E9%95%BF/"/>
-    
-      <category term="老师" scheme="http://aqiqi.me/tags/%E8%80%81%E5%B8%88/"/>
     
   </entry>
   
@@ -834,7 +812,7 @@
     <link href="http://aqiqi.me/2016/01/03/13-computer-network-data-link-layer/"/>
     <id>http://aqiqi.me/2016/01/03/13-computer-network-data-link-layer/</id>
     <published>2016-01-03T13:01:30.000Z</published>
-    <updated>2016-02-25T04:42:44.434Z</updated>
+    <updated>2017-04-03T10:11:46.740Z</updated>
     
     <content type="html">&lt;h2 id=&quot;功能和三种服务&quot;&gt;功能和三种服务&lt;/h2&gt;&lt;h3 id=&quot;【作用】&quot;&gt;【作用】&lt;/h3&gt;&lt;p&gt;为网络层提供服务。将数据从源机器的网络层传输到目标机器的网络层。&lt;/p&gt;
 &lt;h3 id=&quot;【无确认无连接（以太网）】&quot;&gt;【无确认无连接（以太网）】&lt;/h3&gt;&lt;p&gt;数据链路层不试图检测帧丢失，也不试图恢复丢失的帧。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;适用于：&lt;/p&gt;
@@ -907,12 +885,10 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习甚浅" scheme="http://aqiqi.me/categories/%E5%AD%A6%E4%B9%A0%E7%94%9A%E6%B5%85/"/>
     
     
       <category term="学习" scheme="http://aqiqi.me/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="计算机网络" scheme="http://aqiqi.me/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
